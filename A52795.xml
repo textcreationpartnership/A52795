@@ -1,0 +1,999 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The method of mental prayer render'd practical and easie for all sorts of persons compos'd in French by R.F. Francis Nephew, S.J. ; to which is added a method how to offer up Mass, according to the four ends of this sacrifice.</title>
+            <title>Methode facile d'oraison reduite en pratique. English</title>
+            <author>Nepveu, François, 1639-1708.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 131 KB of XML-encoded text transcribed from 73 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52795</idno>
+            <idno type="STC">Wing N437C</idno>
+            <idno type="STC">ESTC R42216</idno>
+            <idno type="EEBO-CITATION">24426113</idno>
+            <idno type="OCLC">ocm 24426113</idno>
+            <idno type="VID">109699</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52795)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 109699)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1708:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The method of mental prayer render'd practical and easie for all sorts of persons compos'd in French by R.F. Francis Nephew, S.J. ; to which is added a method how to offer up Mass, according to the four ends of this sacrifice.</title>
+                  <title>Methode facile d'oraison reduite en pratique. English</title>
+                  <author>Nepveu, François, 1639-1708.</author>
+               </titleStmt>
+               <extent>[8], 96, [6], 29, [5] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Thomas Hales,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1694.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title: An easie method for mental prayer, reduc'd to practice.</note>
+                  <note>Advertisement: p. [2]-[5] at end.</note>
+                  <note>Translation of: Methode facile d'oraison reduite en pratique.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Meditation --  Catholic Church --  Early works to 1800.</term>
+               <term>Mass --  Celebration.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:109699:1"/>
+                  <pb facs="tcp:109699:1" rendition="simple:additions"/>
+                  <p>THE METHOD OF Mental Prayer, Render'd Practical and Eaſie for all ſorts of Perſons.</p>
+                  <p>Compos'd in French by R. F. <hi>Francis Nephew,</hi> S. J.</p>
+                  <p>To which is added a Method how to offer up Maſs, according to the four ends of this Sacrifice.</p>
+                  <p>
+                     <hi>LONDON,</hi> Printed by <hi>Thomas Hales,</hi> 1694.</p>
+               </div>
+               <div type="to_the_reader">
+                  <pb facs="tcp:109699:2"/>
+                  <pb facs="tcp:109699:2"/>
+                  <head>THE Advertiſment TO THE READER.</head>
+                  <p>
+                     <seg rend="decorInit">N</seg>Othing has taken ſo much place, nor ſunk ſo deep into the Minds and Opinions of most Men, as the ground<g ref="char:EOLhyphen"/>leſs prejudice they enter<g ref="char:EOLhyphen"/>tian against Mental Prayer; and nothing can be ſo great a hinderance to their Devotion at this unlucky and mistaken prevention; which frights most people from the practiſe of ſo holy, profitable, and withal ſo neceſ<g ref="char:EOLhyphen"/>ſary an exerciſe.</p>
+                  <p>The very name of Mental Prayer makes most people afraid, ſome out of
+<pb facs="tcp:109699:3"/>
+a fooliſh modesty, and ſhew of humi<g ref="char:EOLhyphen"/>lity, perſwade themſelves, that this kind of Prayer is only proper for Souls that are already perfect, that one muſt have great wit and learning, or elſe a very particular Grace an call from God to enable 'em to apply them<g ref="char:EOLhyphen"/>ſelves to the practice of it, and there<g ref="char:EOLhyphen"/>fore 'twould be a very great preſump<g ref="char:EOLhyphen"/>tion in 'em to attempt this exerciſe.</p>
+                  <p>Others by a more groſs illuſion, look upon the duty and practiſe of Meditation, as a thing very incompa<g ref="char:EOLhyphen"/>tible with the care which they muſt take of their affairs, or with their quality; which obliges 'em to con<g ref="char:EOLhyphen"/>verſe much in the World; where their many civil and neceſſary duties, do not afford 'em leiſure to attend to Meditation; which they conceive to be an employment that only becomes Religions perſons, and ſuch as live retir'd and ſeparated from the rest of the World.</p>
+                  <p>There are ſome others that are still blinder, and more unjust alſo than theſe, who look upon Meditation as an idle employment, in vogue only amongst ſilly Devotes, and weak
+<pb facs="tcp:109699:3"/>
+ſimple Souls, and are pleas'd to make it the ordinary ſubject of their mirth, and railleries; ſo that many times, ſuch Secular perſons as are addicted to Mental Prayer, are oblig'd out of diſcretion, or for fear of being laught at, rather to conceal its practiſe than expoſe themſelves to their cenſures and mockeri<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s.</p>
+                  <p>Infine, ſome others leſs unreaſon<g ref="char:EOLhyphen"/>able than the former, yet not leſs to be pitty'd; thô they understand and apprehend very well the great benefit of Meditation, and are convinc't <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hat <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hey may reap grea<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> advantages ſom ſo holy an exerciſe, could they but ſeriouſly apply themſelves to it; yet either their apprehenſion of occur<g ref="char:EOLhyphen"/>ing difficulties, hinder 'em from ven<g ref="char:EOLhyphen"/>turing upon any tryal at all, or the little trouble they meet with in the beginning, diſheartens 'em from that perſeverance in it, as would afford 'em comfort.</p>
+                  <p>'Tis in order to diſabuſe all ſuch as are ſeduc't and deceiv'd by theſe groundleſs, dangerous and common errors, that I undertake first to prove, by strong, plain and evident reaſons,
+<pb facs="tcp:109699:4"/>
+how neceſſary Meditation is for all ſorts of perſons; ſecondly, that I en<g ref="char:EOLhyphen"/>deavor to make 'em understand how eaſie 'tis for 'em to Meditate; by pro<g ref="char:EOLhyphen"/>poſing ſo plain and eaſie a method, that I dare undertake, that whoever will lay aſide the prejudice he has al<g ref="char:EOLhyphen"/>ready conceiv'd against it, or for a while ſuſpend it, ſhall be oblig'd to confeſs, that there are none of ſo mean a capacity, nor ſo engag'd in buſineſs or Worldly affairs; but may eaſily, if they will, daily make their Meditation; and therefore, that all perſons ought to do ſo.</p>
+                  <p>When I have once explicated this eaſie method of Prayer. I ſhall add the Rules neceſſary to be obſerv'd in the practiſe of it, and give examples upon all the different ſubjects of Me<g ref="char:EOLhyphen"/>ditation; whereby I ſhall reduce the method into practiſe, and teach the manner how to obſerve all the Rules preſcrib'd for it.</p>
+                  <p>I deſire the Reader notwithſtanding to take notice, that I pretend not here to Write a formal Treatiſe of Mental Prayer, which would be very unne<g ref="char:EOLhyphen"/>ceſſary, conſidering the many excellent
+<pb facs="tcp:109699:4"/>
+Treatiſes already Written, by the most Learned Men of our Age upon that Subject: But that my only deſign is, to instrust and aſſist thoſe that deſire to enter into a retreat who not being us'd to Mental Prayer, find them<g ref="char:EOLhyphen"/>ſelves in the beginning at ſome loſs, they being yet ignorant how to apply their minds to Meditation, which is, and ought to be the chief buſineſs of a retreat. Wherefore, when I have let 'em evidently ſee how pro<g ref="char:EOLhyphen"/>fitable and neceſſery, Meditation is, I doubt not to convince 'em of the eaſineſs, and at the ſame time make 'em Masters of this Holy Art, by teaching 'em a ſhort and eaſie manner how to Meditate, and laying before 'em the practiſe of it, upon ſuch dif<g ref="char:EOLhyphen"/>ferent ſubjects as are the grounds and matter of Meditation, ſo that by one hours Reading they may be ſufficiently inform'd of the manner how to make their Meditation well, and afterwards with very little pains may put their knowledge into pra<g ref="char:EOLhyphen"/>ctice.</p>
+                  <p>But thô I had at first nothing elſe in proſpect, but by this ſmall Treatiſe
+<pb facs="tcp:109699:5"/>
+to help thoſe that deſire to enter into retreat; yet now I hope it may be<g ref="char:EOLhyphen"/>come alſo very uſeful to ſuch as are inſpir'd with a ſincere deſire of work<g ref="char:EOLhyphen"/>ing their own Salvation; and that they may accompliſh that great work with leſs difficulty and greater ſecuri<g ref="char:EOLhyphen"/>ty, are deſirous to make uſe of ſo ex<g ref="char:EOLhyphen"/>cellent and neceſſary a means, as Me<g ref="char:EOLhyphen"/>ditation is experienc't to be, to ſo profitable an end.</p>
+               </div>
+            </front>
+            <body>
+               <div type="text">
+                  <pb n="1" facs="tcp:109699:5"/>
+                  <head>AN Eaſie Method for Men<g ref="char:EOLhyphen"/>tal Prayer, reduc't to Practice.</head>
+                  <div n="1" type="chapter">
+                     <head>CHAP. 1. Of the neceſſity of Meditation.</head>
+                     <p>
+                        <seg rend="decorInit">A</seg> Man would think 'twere enough to explicate on<g ref="char:EOLhyphen"/>ly what we mean by Meditation, to con<g ref="char:EOLhyphen"/>vince thoſe that are the moſt prepoſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>eſt, with prejudice a<g ref="char:EOLhyphen"/>gainſt this holy exerciſe, that 'tis morally neceſſary for all that effi<g ref="char:EOLhyphen"/>caciouſly
+<pb n="2" facs="tcp:109699:6"/>
+intend to ſave their Souls; for by Meditation we mean nothing elſe, but a ſerious reflecti<g ref="char:EOLhyphen"/>on upon the Maxims of the holy Goſpel; upon the great and ſaving truths of our Faith; upon our duties towards Almighty God; upon the beſt means that may fa<g ref="char:EOLhyphen"/>cilitate and ſecure our happineſs, or, upon the obſtacles that may retard, or hinder our eternal felicity; which reflection natu<g ref="char:EOLhyphen"/>rally produces thoſe good and pi<g ref="char:EOLhyphen"/>ous deſires, holy affections, and ſuch ſincere and efficacious reſolu<g ref="char:EOLhyphen"/>tions, as reduce thoſe good deſires into practice, and move us to put in execution all our good deſigns; by making uſe of thoſe means, which by our reflection, we find capable of furthering us in the work of our eternal Salvation, and of helping us to overcome what<g ref="char:EOLhyphen"/>ever obſtacles oppoſe it.</p>
+                     <p>All the Holy Fathers ſuppoſ'd this great truth, that Meditation, or a conſideration and ſerious re<g ref="char:EOLhyphen"/>flection, is neceſſary for Salvation; and have always admitted this for
+<pb n="3" facs="tcp:109699:6"/>
+a fundamental Maxim in Chriſtian Morality. 'Tis the opinion of Saint <hi>Chryſostom</hi> and Saint <hi>Austin,</hi> who both aſſure us, that a ſerious conſideration and reflection is the firſt principal and foundation of all good actions; and Saint <hi>Bernard</hi> proves that Prayer and Meditation are of equal neceſſity; <hi>for Medita<g ref="char:EOLhyphen"/>tion,</hi> ſays he, <hi>diſcovers what we stand in need of, and Prayer obtains from Almighty God whatever we want;</hi> the one ſhews us the way, and the other brings us to our journies end. Meditation diſco<g ref="char:EOLhyphen"/>vers the dangers that encompaſs us, and Prayer guards us very ſafely thrô 'em. And 'twas to ſhew us the great neceſſity of Meditation; that this great Saint, ſo well verſt in all Spiritual concerns, com<g ref="char:EOLhyphen"/>poſ'd that admirable Book of conſideration, he Dedicated to Pope <hi>Engenius.</hi>
+                     </p>
+                     <p>But not to inſiſt upon bare Au<g ref="char:EOLhyphen"/>thority, I will give the reaſons upon which this general opinion and conſent of all the Fathers is grounded, which will alſo ſerve
+<pb n="4" facs="tcp:109699:7"/>
+to remove all the prejudice that any well meaning Chriſtian can have againſt Meditation.</p>
+                     <div n="1" type="reason">
+                        <head>The Firſt Reaſon.</head>
+                        <p>'Tis impoſſible for us to be ſav'd without knowing God, nei<g ref="char:EOLhyphen"/>ther is a ſlight ſuperficial know<g ref="char:EOLhyphen"/>ledge of him ſufficient, but ſo live<g ref="char:EOLhyphen"/>ly and penetrating a knowledge as is full of ſuch affections, as may im<g ref="char:EOLhyphen"/>print in our Souls a great Idea of that bleſſed and firſt Being; for we cannot be ſav'd but by ſerving God; we cannot ſerve him any other way than by loving him, and by loving him with all our heart; we cannot love him with all our heart, unleſs we have a great eſteem of him; and we can<g ref="char:EOLhyphen"/>not conceive that high eſteem of him, unleſs we have a knowledge in ſome good meaſure of his bleſ<g ref="char:EOLhyphen"/>ſed and infinite perfections; and how is it poſſible to acquire and compaſs that knowledge without attentively conſidering 'em, by
+<pb n="5" facs="tcp:109699:7"/>
+a ſerious Meditation? Wherefore, 'tis for this reaſon Almighty God tells us by the Mouth of his Pro<g ref="char:EOLhyphen"/>phet; <hi>Vacate &amp; videte quoniam ego ſum Deus; Retire your ſelf a while from the World, and the hurry of Worldly buſineſs, to conſider at leiſure, and to reflect ſeriouſly, that I am your God;</hi> that you owe to my bounty all that you have, and all that you are, and therefore you are oblig'd to acknowledge at all times, that I am your Matter, that I have an abſolute Dominion over you, and that you have a continual depen<g ref="char:EOLhyphen"/>dance upon me, and therefore ought to have a perfect ſubmiſ<g ref="char:EOLhyphen"/>ſion to my Will; <hi>Vacate &amp; videte quoniam ego ſum Deus.</hi>
+                        </p>
+                        <p>Alas we cannot well compre<g ref="char:EOLhyphen"/>hend even the leaſt and moſt com<g ref="char:EOLhyphen"/>mon works of nature, nor their dependance upon their cauſes, thô they fall within the reach of our ſenſes, which are the beſt helps we have to underſtand 'em; how then ſhall we be able to know God and his perfections, that are ſo infinitely rais'd above our
+<pb n="6" facs="tcp:109699:8"/>
+ſenſes, and underſtanding? How can we ever conceive any true Idea of 'em, without endeavor<g ref="char:EOLhyphen"/>ing all we can to penetrate 'em by a frequent and moſt ſerious Meditation?</p>
+                        <p>How comes it to paſs that we ſerve God ſo little, and ſo very ill as we do? But becauſe we do not love him as we ſhould do; And why do we not love that in<g ref="char:EOLhyphen"/>finite goodneſs? But becauſe we do not know him as we ought, <hi>Pater Sancte,</hi> ſays our Savior, <hi>Mandus te non cognovit; Bleſſed Father the World knows you not,</hi> and therefore they ſerve you ſo coldly as they do; and are ſo ready to offend you. Infine, what other reaſon can there be that God is not better known by us, but on<g ref="char:EOLhyphen"/>ly that we do not apply our minds to Meditate and conſider his infi<g ref="char:EOLhyphen"/>nite Majeſty, Goodneſs, and Per<g ref="char:EOLhyphen"/>fections? The ſource of all the ſins and diſorders in the World, ſays the Prophet <hi>Oſee,</hi> is, becauſe truth, and the knowledge of Al<g ref="char:EOLhyphen"/>mighty God, are withdrawn from
+<pb n="7" facs="tcp:109699:8"/>
+the face of the Earth. <hi>Non est veritas, non est ſcientia Dei in terra.</hi>
+                        </p>
+                     </div>
+                     <div n="2" type="reason">
+                        <head>The Second Reaſon.</head>
+                        <p>But 'tis not enough to know Al<g ref="char:EOLhyphen"/>mighty God, we muſt alſo endea<g ref="char:EOLhyphen"/>vor to know our ſelves intimately; wherefore, Saint <hi>Austin</hi> made it his continual Prayer; <hi>Noverim me no<g ref="char:EOLhyphen"/>verim te; Grant good God that I may know my ſelf that I may the better know you:</hi> That I may know my ſelf; whereby to have humble thoughts of my ſelf, and diſlike my own im<g ref="char:EOLhyphen"/>perfections; and that I may know you, whereby I may eſteem and love you above all things. And in truth if we intend to apply our ſelves effi<g ref="char:EOLhyphen"/>caciouſly to work our own Sal<g ref="char:EOLhyphen"/>vation, we muſt endeavor to diſ<g ref="char:EOLhyphen"/>cover the root of that corruption, and thoſe bad inclinations that are in our Souls, in order to humble, and render us miſtruſtful of our ſelves, and make us continually watch and labor to ſuppreſs 'em. We muſt believe that of our ſelves
+<pb n="8" facs="tcp:109699:9"/>
+we can do no good, that we may not truſt to our own ſtrength; but have continual recourſe to Almighty God, and rely wholly upon the aſſiſtance of his Divine Grace. We muſt find out that paſſion, that moſt tyranniſes over us, that we may reſiſt it, and labor to overcome it. Infine, we muſt be ſenſible of our infidelities and ingratitude towards God, and muſt ſigh and be ſorry for 'em, that by our grief we may make ſome ſa<g ref="char:EOLhyphen"/>tisfaction, and by our Tears of true repentance, waſh and cleanſe our Souls from theſe ſpots.</p>
+                        <p>This is that knowledge of our ſelves, ſo neceſſary for our Salva<g ref="char:EOLhyphen"/>tion; for the acquiring of which we muſt apply our ſelves without intermiſſion. And can you think it poſſible to attain it, without often reflecting, and ſounding your own heart, to find whither in thoſe depths, where, as I may ſay, we cover and hide our ſelves from our ſelves, there do's not ſtill lurk an Enemy? 'Tis for want of Meditation and theſe re<g ref="char:EOLhyphen"/>flections,
+<pb n="9" facs="tcp:109699:9"/>
+that a great part of the World live in a perpetual igno<g ref="char:EOLhyphen"/>rance of themſelves, know no<g ref="char:EOLhyphen"/>thing leſs than what paſſes in their own hearts, and to ſpeak proper<g ref="char:EOLhyphen"/>ly, are the greateſt ſtrangers at home.</p>
+                     </div>
+                     <div n="3" type="reason">
+                        <head>The Third Reaſon.</head>
+                        <p>To work our own Salvation we muſt know our Duty towards God, and thoſe obligations which are contain'd in his Holy Laws, and Commandments; for we can<g ref="char:EOLhyphen"/>not obſerve 'em without knowing 'em, and to obſerve 'em exactly as we <gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ought, we muſt have an exact knowledge of 'em. But is there, or can there be any means to know them perfectly, without often ſtudying and thinking of 'em? After God had deliver'd his Commandments to the Children of <hi>Iſrael,</hi> he immediatly adds in the Sixth Chapter of <hi>Deuterono<g ref="char:EOLhyphen"/>my, Theſe words which I Com<g ref="char:EOLhyphen"/>mand thee this Day, ſhall always be
+<pb n="10" facs="tcp:109699:10"/>
+in thy heart, thou ſhalt tell 'em to thy Children, thou ſhalt Meditate upon 'em, ſitting in thy Houſe, and walk<g ref="char:EOLhyphen"/>ing upon the Way, going to Sleep and Riſing; thou ſhalt bind 'em as a memorial upon thy hand, and ſhalt have 'em always before thy Eyes, thou ſhalt Write 'em in the Entry and up<g ref="char:EOLhyphen"/>on the Doors of thy Houſe;</hi> could Almighty God recommend to us the continual Meditation of his Commandments, and make us comprehend the great neceſſity of it, in any more expreſs or moving terms, than theſe are? The Pro<g ref="char:EOLhyphen"/>phet <hi>David,</hi> that Man according to Gods own Heart, recommends nothing ſo earneſtly, as the con<g ref="char:EOLhyphen"/>tinual Meditation upon the Law of God, and begins his admirable Book of the Pſalms with, <hi>Bleſſed is the Man that Meditates Day and Night upon thy Law, he ſhall be like a Tree planted by the River ſide, that ſhall bear fruit in its ſeaſon;</hi> and in the 118th. Pſalm, <hi>Bleſſed are the Immaculate that walk in the way of Gods Commandments, and ſeek him with all their hearts;</hi> Practiſing
+<pb n="11" facs="tcp:109699:10"/>
+moſt exactly himſelf, what he ſo earneſtly recommended to others; of which the admirable Pſalm I cited is an evident proof; for there is ſcarce a Verſe in the whole Pſalm, wherein he do's not men<g ref="char:EOLhyphen"/>tion the Commandments of God, the great care he took to Medi<g ref="char:EOLhyphen"/>tate often upon 'em, and his zeal and fidelity in obſerving 'em.</p>
+                     </div>
+                     <div n="4" type="reason">
+                        <head>The Fourth Reaſon.</head>
+                        <p>'Tis not yet enough to know our duty, and to know the Law of God that enjoyns it; but we muſt alſo take delight therein, and place our affections upon it; ſeri<g ref="char:EOLhyphen"/>ouſly applying our ſelves to its obſervance. To do this, 'tis ne<g ref="char:EOLhyphen"/>ceſſary to underſtand the reaſon<g ref="char:EOLhyphen"/>ableneſs, and equity of the Divine Law; to apprehend the advantages and the great recompence that God promiſes, to thoſe that ſhall obſerve his Commandments; and the terrible puniſhments with which he threatens thoſe, that ſhall dare to
+<pb n="12" facs="tcp:109699:11"/>
+violate 'em; for this reaſon Al<g ref="char:EOLhyphen"/>mighty God after he had propos'd his Law to the <hi>Iſraelites,</hi> did on the one ſide particularly declare the bleſſings he would heap up<g ref="char:EOLhyphen"/>on ſuch, as ſhould faithfully ob<g ref="char:EOLhyphen"/>ſerve it; and on the other ſide, he ſet before 'em the miſeries, ſhould fall upon all thoſe, that ſhould be ſo inſolent as to tranſ<g ref="char:EOLhyphen"/>greſs 'em.</p>
+                        <p>Infine, the ſtrange propenſity we have to evil, the great repug<g ref="char:EOLhyphen"/>nance we have to good, the diffi<g ref="char:EOLhyphen"/>culty we meet with in obſerving a Law that contradicts the inclinati<g ref="char:EOLhyphen"/>ons of corrupt nature, are ſo pre<g ref="char:EOLhyphen"/>valent, that nothing leſs than the hope of a great reward, or the fear of ſuch terrible pains as thoſe of Hell, which are infinite and eter<g ref="char:EOLhyphen"/>nal, can ſtop us, and ſerve as a ramper to check the violence of our paſſions; we muſt then at all times have theſe rewards, and theſe puniſhments in our thoughts; that is, we muſt continually Me<g ref="char:EOLhyphen"/>ditate upon 'em.</p>
+                        <p>
+                           <pb n="13" facs="tcp:109699:11"/>
+And is it not for want of con<g ref="char:EOLhyphen"/>ſidering and pondering theſe great truths, that the greateſt part of the World, abandon themſelves ſo eaſi<g ref="char:EOLhyphen"/>ly and ſo frequently to all ſorts of crimes, and plunge themſelves ſo deep in ſenſual pleaſures and moſt enormous Sins? Is it not I ſay for want of making a reflecti<g ref="char:EOLhyphen"/>on, that thoſe beaſtly pleaſures which laſt but for a moment, muſt end in everlaſting pain? If one ſhould ask thoſe miſerable Chri<g ref="char:EOLhyphen"/>ſtians that are now in Hell, how they came thither, they would cer<g ref="char:EOLhyphen"/>tainly anſwer, 'tis, becauſe they did not conſider, nor think enough upon thoſe pains they now ſuffer, <hi>Deſolatione deſolata est omnis terra, quia nullus est qui recogitet corde; All the Earth is become deſolate, becauſe none conſiders, or takes it to heart.</hi>
+                        </p>
+                     </div>
+                     <div n="5" type="reason">
+                        <head>The Fifth Reaſon.</head>
+                        <p>We may at preſent ſay with great reaſon what our Bleſſed Sa<g ref="char:EOLhyphen"/>vior
+<pb n="14" facs="tcp:109699:12"/>
+ſayd heretofore; do you be<g ref="char:EOLhyphen"/>lieve that if the Son of Man ſhould come again upon the Earth, to ſound the minds, and examin the hearts of moſt Chriſtians, or at leaſt of thoſe that bear the name of Chriſtians, he ſhould find any faith there? Aſſuredly 'tis this want of Faith, that is the ſource of almoſt all our diſorders, of the careleſ<g ref="char:EOLhyphen"/>neſs and neglect we live in, as to the great buſineſs of our Salva<g ref="char:EOLhyphen"/>tion; of our forgetting Almighty God; and inſine, of our eternal Damnation. Not that we have loſt all Faith, or that we do poſi<g ref="char:EOLhyphen"/>tively doubt of the truths of Chriſtian Religion, or of the Max<g ref="char:EOLhyphen"/>ims of the Goſpel; but for want of a lively, practical and active Faith. We ſuppoſe, and take our Chriſtian truths for granted, with<g ref="char:EOLhyphen"/>out ever penetrating 'em, and without drawing thoſe conſequen<g ref="char:EOLhyphen"/>ces from 'em, which neceſſarily follow the granting 'em to be true.</p>
+                        <p>But what is there that can ren<g ref="char:EOLhyphen"/>der our Faith more lively and
+<pb n="15" facs="tcp:109699:12"/>
+active? Without doubt nothing can contribute more to it, than ſuch ſolid reflections upon thoſe great truths, which are beſt made in our Meditations, and are moſt proper and likely to make ſtrong impreſſions upon our minds, and wills; which being mov'd by thoſe impreſſions, 'tis to be hop't we ſhall take our great affair to heart, and fall ſeriouſly to work, re<g ref="char:EOLhyphen"/>forming our lives, and reducing to practice thoſe things which have been repreſented to us in our Meditation.</p>
+                        <p>By this it plainly appears, that as the want of a lively and practi<g ref="char:EOLhyphen"/>cal Faith, ſo much recommended to us in Holy Scripture, is the chief cauſe of the Damnation of moſt Chriſtians, ſo the neglecting to apply themſelves to reflect and ſeriouſly conſider what Holy Scrip<g ref="char:EOLhyphen"/>ture and the fundamental Maxims and verities of Chriſtian Religion teach, and require of us, is in truth the greateſt occaſion of the want of that practical Faith.</p>
+                     </div>
+                     <div n="6" type="reason">
+                        <pb n="16" facs="tcp:109699:13"/>
+                        <head>The Sixth Reaſon.</head>
+                        <p>'Tis morally impoſſible to ſuc<g ref="char:EOLhyphen"/>ceed in any buſineſs of great im<g ref="char:EOLhyphen"/>portance, that is not only difficult in it ſelf, but is alſo traverſt and oppos'd by moſt powerful, crafty, vigilant, and active Enemies, with<g ref="char:EOLhyphen"/>out firſt conſidering ſeriouſly how to lay our buſineſs well; and ap<g ref="char:EOLhyphen"/>plying great care to find out, and to make good uſe of the beſt means to ſurmount the obſtacles; and break the meaſures of thoſe Enemies which oppoſe us. Now tell me, is not the concern of our Salvation a buſineſs of the greateſt importance? Since of that de<g ref="char:EOLhyphen"/>pends either our eternal happineſs, or our eternal miſeries. And is it not an affair of great difficulty? By reaſon of the corruption of our hearts, the frailty of our will, the blindneſs of our underſtanding, the violence of our paſſions, the force of thoſe ill habits we have got, the many dangerous occaſions
+<pb n="17" facs="tcp:109699:13"/>
+we are expos'd to, and which fre<g ref="char:EOLhyphen"/>quently we cannot avoid. Beſides, are not the World, the Fleſh, and the Devil, whom we are to fight againſt, moſt terrible Enemies? Can there be any more powerful, crafty, vigilent, or active then theſe are? Shall we then flat<g ref="char:EOLhyphen"/>ter and promiſe our ſelves good ſucceſs in ſo difficult an affair as this, without continual applicati<g ref="char:EOLhyphen"/>on and care to conſider, and ob<g ref="char:EOLhyphen"/>ſerve well every ſtep we make, to diſcover the artifice of our Ene<g ref="char:EOLhyphen"/>mies, and the many Snares they lay for us? And is it poſſible to do this without frequent Medita<g ref="char:EOLhyphen"/>tion?</p>
+                        <p>Theſe reaſons which clearly ma<g ref="char:EOLhyphen"/>nifeſt the great neceſſity of Medita<g ref="char:EOLhyphen"/>tion, as plainly prove the neceſſity of a retreat, eſpecially for ſuch perſons a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> are engag'd in multipli<g ref="char:EOLhyphen"/>city of buſineſs, and the great commerce of the World. For the reaſons they ordinarily al<g ref="char:EOLhyphen"/>ledge to excuſe themſelves from retiring; are thoſe, which moſt evidently prove the great want they
+<pb n="18" facs="tcp:109699:14"/>
+have of it; ſo that if a retreat be profitable for all Men in general, 'tis in a manner abſolutly neceſſary for theſe; for ſince they cannot be ſav'd, without making ſerious reflexions upon the means that fa<g ref="char:EOLhyphen"/>cilitate the working of their Sal<g ref="char:EOLhyphen"/>vation, in order to embrace 'em; nor without reflecting and diſco<g ref="char:EOLhyphen"/>vering the obſtacles that ſtand in their way, in order to remove 'em, if the great hurry of buſineſs, and that worldly commerce where<g ref="char:EOLhyphen"/>in they are engag'd, will not allow 'em leiſure, to make theſe reflecti<g ref="char:EOLhyphen"/>ons as ſeriouſly as they ought; they are oblig'd to ſet a part ſome few Days, and free them<g ref="char:EOLhyphen"/>ſelves from thoſe other buſineſſes, that take up all their thoughts; and from that worldly commerce that ſo diſſipates their minds, and ſuffers 'em to recollect them<g ref="char:EOLhyphen"/>ſelves; that in the time of that little ſolitude, they may have no<g ref="char:EOLhyphen"/>thing elſe to think on, but Eter<g ref="char:EOLhyphen"/>nity, and their own Salvation.</p>
+                     </div>
+                  </div>
+                  <div n="2" type="chapter">
+                     <pb n="19" facs="tcp:109699:14"/>
+                     <head>CHAP. II. Of the pretences that many Men make uſe of to excuſe them<g ref="char:EOLhyphen"/>ſelves from taking the pains to Meditate.</head>
+                     <p>THô all Men are oblig'd to employ their wit and reaſon, to ſearch after, and find out the beſt means, to facilitate and ſecure their eternal happineſs; yet methinks moſt of 'em, are in nothing ſo induſtrious and inge<g ref="char:EOLhyphen"/>nious, as they are in contriving how to blind and cheat themſelves; and in finding out idle pretences, to lay aſide, and diſpenſe with the moſt advantagous and holy ex<g ref="char:EOLhyphen"/>erciſe, that can be practiſ'd; not reflecting as they ought, upon that moſt infallible and important Maxim, which ought to regulate all our undertakings, <hi>That we can ne<g ref="char:EOLhyphen"/>ver
+<pb n="20" facs="tcp:109699:15"/>
+have ſecurity enough, where Eter<g ref="char:EOLhyphen"/>nity lies at stake; Ibi nulla ſatis mag<g ref="char:EOLhyphen"/>na ſecuritas, ubi periclitatur aeterni<g ref="char:EOLhyphen"/>tas.</hi> All the pretences which are com<g ref="char:EOLhyphen"/>monly alledg'd, to diſpenſe with Meditation, may be reduc't to ſix; and are objections againſt the ſix Reaſons, I propoſ'd for the neceſ<g ref="char:EOLhyphen"/>ſity of it. Wherefore I intend now to examin theſe pretences, and then 'twill be no hard task to diſ<g ref="char:EOLhyphen"/>cover their vanity and weakneſs.</p>
+                     <div n="1" type="pretence">
+                        <head>The Firſt Pretence.</head>
+                        <p>The firſt pretence they alledge is their multitude of affairs; how is it poſſible, ſay they, that a Man taken up by an employment, that requires his whole time and appli<g ref="char:EOLhyphen"/>cation, burthen'd with the care of a numerous Family, or a Woman engag'd by her Quality in the Commerce of the World, oblig'd by neceſſity to take care of her Children, Servants, and Houſe<g ref="char:EOLhyphen"/>hold affairs, as alſo to receive and to return Viſits, can find leiſure
+<pb n="21" facs="tcp:109699:15"/>
+amongſt all theſe employments, to attend to Meditation? Which is only fit for Religious Perſons, that are as 'twere out of the World, and have in a manner no<g ref="char:EOLhyphen"/>thing elſe to do.</p>
+                        <p>There needs but a very little Faith, and reaſon, quickly to diſcover the fallacy and weakneſs of this kind of arguing; for is there any buſineſs in this World ſo im<g ref="char:EOLhyphen"/>portant, as that of our Eternal Sal<g ref="char:EOLhyphen"/>vation? Are there any duties ſo Eſſential, as thoſe we owe to God? Is there any Chriſtian that dares ſay or think there is? If then, as we have already made it appear, Medita<g ref="char:EOLhyphen"/>tion be one of the moſt neceſſary and uſeful means to work our Sal<g ref="char:EOLhyphen"/>vation, and to acquit our ſelves of our duty towards God; we are inexcuſable if we neglect it, upon account of any other buſineſs or employment whatſoever.</p>
+                        <p>All other buſineſſes compar'd with the concerns of our Salvati<g ref="char:EOLhyphen"/>on are but trifles, as Saint <hi>Austin</hi> very well calls 'em, <hi>Majorum nugae, negotia vocantur;</hi> we ought then to
+<pb n="22" facs="tcp:109699:16"/>
+find always time, to think of this great and indeed only important affair.</p>
+                        <p>What would we ſay of an Em<g ref="char:EOLhyphen"/>baſſador, that were ſent and charg'd with the care of Treating, and Managing the Affair of the Peace of all <hi>Europe,</hi> who inſtead of attending to that, ſhould amuſe himſelf in contriving how to be commodiouſly Lodg'd, and ſpend all his time in Playing and Dance<g ref="char:EOLhyphen"/>ing? Durſt he alledge ſuch Em<g ref="char:EOLhyphen"/>ployments as theſe for an excuſe of his neglect, in managing and bringing to a good iſſue, that im<g ref="char:EOLhyphen"/>portant Affair, with which he was intruſted?</p>
+                        <p>What preſs ſoever of buſineſs a Man is in, if a concern of any very conſiderable Temporal Intereſt in<g ref="char:EOLhyphen"/>tervenes, he will not fail to find time to look after it; and ſhall we ſay, we have no time left, when we are to attend to that main buſi<g ref="char:EOLhyphen"/>neſs, which concerns our Eternal Intereſt? A Woman can always find time, to Play, to keep idle, and many times dangerous Com<g ref="char:EOLhyphen"/>pany,
+<pb n="23" facs="tcp:109699:16"/>
+to comply with the World, and perchance to ruin and Damn her ſelf; but ſhe cannot find one moment of leiſure to think and re<g ref="char:EOLhyphen"/>flect ſeriouſly how to ſave her Soul. What miſerable blindneſs is this? Wherefore we muſt un<g ref="char:EOLhyphen"/>dertake no more buſineſs, nor al<g ref="char:EOLhyphen"/>low our ſelves any other divertiſ<g ref="char:EOLhyphen"/>ments, than what are conſiſtent with our great and only affair; which is, that of our Eternal Sal<g ref="char:EOLhyphen"/>vation.</p>
+                     </div>
+                     <div n="2" type="pretence">
+                        <head>The Second Pretence.</head>
+                        <p>Some others object, that they no ſooner apply themſelves to Meditation, but they are imme<g ref="char:EOLhyphen"/>diately fill'd with diſtractions. My fancy, ſays one, is ſo quick and wandering, that 'tis impoſ<g ref="char:EOLhyphen"/>ſible for me to fix it upon any object; to think upon, or go about to make my Meditation, is enough to make me rave and run into a thouſand fooliſh, frivolous, and many times very extravagant fancys.</p>
+                        <p>
+                           <pb n="24" facs="tcp:109699:17"/>
+I grant, there are ſome peo<g ref="char:EOLhyphen"/>ple, whoſe vivacity is ſuch, that 'tis hard to fix their Imagination; and that thoſe perſons have not the ſame facility and good diſ<g ref="char:EOLhyphen"/>poſition that many others have for Mental Prayer; but if you are not capable of making a long Medita<g ref="char:EOLhyphen"/>tion, you may at leſt Meditate by Reading; and the way to do it is this. Take a good Book, and by an Act of Faith, place your ſelf in the Preſence of God, and beg light ſufficiently to underſtand, and penetrate thoſe truths which you are going to Read; perſwad<g ref="char:EOLhyphen"/>ing your ſelf that 'tis God him<g ref="char:EOLhyphen"/>ſelf who is going to ſpeak to you by that Book; then Read leiſure<g ref="char:EOLhyphen"/>ly and with Attention, endeavor<g ref="char:EOLhyphen"/>ing to comprehend and reliſh well what you Read; when you light upon ſomething that touches your ſelf in particular, or agrees with your Diſpoſition, or anſwers your preſent wants and neceſſities, ſtop there, make ſome particular re<g ref="char:EOLhyphen"/>flections, and apply it to your ſelf; if you meet with ſomething in
+<pb n="25" facs="tcp:109699:17"/>
+your Reading, that blames and con<g ref="char:EOLhyphen"/>demns your former conduct, hum<g ref="char:EOLhyphen"/>ble your ſelf before Almighty God, implore his mercy, and re<g ref="char:EOLhyphen"/>ſolve to mend it; begging his holy Grace for that end; and then con<g ref="char:EOLhyphen"/>tinue your Reading in the ſame manner. The bleſſed Saint <hi>Tereſe</hi> made uſe for a while of this Me<g ref="char:EOLhyphen"/>thod of Meditation, and there is no body but is capable of it, and may profit very much by it.</p>
+                     </div>
+                     <div n="3" type="pretence">
+                        <head>The Third Pretence.</head>
+                        <p>The third Pretence, which is much like the ſecond, is drawn from the importunity of diſtracti<g ref="char:EOLhyphen"/>ons. My Prayers, ſays one, are nothing elſe but a continual heap or floud of diſtractions, whereby that which is of great advantage to o<g ref="char:EOLhyphen"/>thers, becomes an obſtacle to my Perfection; becauſe endeavoring to do a good work, I commit a ſin, and 'twere better for me not to Pray at all than to Pray ill, and offend by Prayer.</p>
+                        <p>
+                           <pb n="26" facs="tcp:109699:18"/>
+This may be anſwer'd divers ways. Firſt, the diſtractions are either voluntary or not, if they are voluntary. it depends on you to ſhake 'em off, and 'tis your fault if you do not. If they are not voluntary, they offer you a fair occaſion of Merit, by the care and endeavors you may uſe to reject 'em, by the exerciſe of your pa<g ref="char:EOLhyphen"/>tience, and by the pain and trouble you undergo, whilſt you ſuffer 'em againſt your Will.</p>
+                        <p>In the next place, you muſt ex<g ref="char:EOLhyphen"/>amin from whence theſe diſtracti<g ref="char:EOLhyphen"/>ons proceed; if it be from the great livelineſs of your fancy, you muſt not be too much troubl'd at it, but make uſe of that remedy ſet down in the Anſwer to the Second Pretence; but if it be from your paſſions, you muſt labor to mortifie and overcome 'em; if they proceed from any diſorderly affection, thô perchance innocent, yet by reaſon it cauſes too great a diſſipation of your thoughts, you muſt ſtrive quickly to break it off, or at leaſt maſter it.</p>
+                        <p>
+                           <pb n="27" facs="tcp:109699:18"/>
+If your diſtractions come from the ſtraying and wandering of your ſenſes, you muſt take care to keep a cuſtody over 'em; if your own ſins draw them upon you, be ſure to make an Act of Contrition, thereby to free and purific your Soul, before you be<g ref="char:EOLhyphen"/>gin your Prayer; if multiplicity of buſineſs, and care of your Fa<g ref="char:EOLhyphen"/>mily diſtract you, be not in pain, but apply your ſelf ſeriouſly to moderate that great ſolicitude, and to purifie and direct well your in<g ref="char:EOLhyphen"/>tentions; and uſe your ſelf to take care of thoſe affairs, incident to your Calling and condition, not out of a paſſionate affection, inter<g ref="char:EOLhyphen"/>eſt, or ambition; but to purſue and obey the orders of Divine Providence; which having call'd you to that ſtate and way of living, would have you perform thoſe du<g ref="char:EOLhyphen"/>ties that belong to it. If we con<g ref="char:EOLhyphen"/>ſider'd and look't upon our affairs with this diſpoſition of mind, they would never diſtract us as they do, for whatever is done for Almigh<g ref="char:EOLhyphen"/>ty God, or becauſe he would
+<pb n="28" facs="tcp:109699:19"/>
+have it done, can never ſeparate us from him.</p>
+                     </div>
+                     <div n="4" type="pretence">
+                        <head>The Fourth Pretence.</head>
+                        <p>Many complain of, and alledge as great difficulties in Mental Pray<g ref="char:EOLhyphen"/>er, the pain they feel, by their coldneſs and aridity in it, finding neither light, comfort, nor any guſt in Heavenly things; ſo that they have reaſon to cry out with the Prophet, <hi>Anima mea ſicut terra ſine aqua tibi; My Soul is parch't and dry'd up like the Earth for want of Rain,</hi> to what end therefore, ſay they, ſhould we torment ourſelves without receiving any benefit there<g ref="char:EOLhyphen"/>by? To what purpoſe ſhould we weary out our ſelves in an exerciſe, wherein we cannot honor Almigh<g ref="char:EOLhyphen"/>ty God?</p>
+                        <p>But firſt, 'tis not conſolation you are to look after in your Prayer: The beſt Prayer that ho<g ref="char:EOLhyphen"/>nors God moſt, is not that where<g ref="char:EOLhyphen"/>in we find moſt ſenſible comfort, but that wherein we beſt practiſe Mortification; 'tis not that where<g ref="char:EOLhyphen"/>in
+<pb n="29" facs="tcp:109699:19"/>
+in we imagine we taſt and feel Almighty God moſt; but that wherein we ſubmit our ſelves moſt entirely to his Divine Will; and this lies in our power to do, even in this ſtate of privation of all o<g ref="char:EOLhyphen"/>ther comforts.</p>
+                        <p>Secondly, This State of deſo<g ref="char:EOLhyphen"/>lation is either a puniſhment of our paſt infidelities towards God, or a tryal of our preſent ver<g ref="char:EOLhyphen"/>tue, and conſtancy; for ſome<g ref="char:EOLhyphen"/>times God in his juſtice puniſhes us that way; and his mercy do's at other times make uſe of this means to exerciſe us. If it be for our puniſhment; how can we bet<g ref="char:EOLhyphen"/>ter expiate our faults, than by ſubmitting our ſelves to that pain, we have ſo juſtly deſerv'd? If it be for our tryal, we muſt joyn with Almighty God in his de<g ref="char:EOLhyphen"/>ſign; and rejoyee that we have this opportunity to give him a proof of our fidelity, and ofthat diſin tereſſedneſs, with which we hope and deſirealways to ſerve him; ma<g ref="char:EOLhyphen"/>nifeſting there by, that we ſeek him only, not our own comfort or con<g ref="char:EOLhyphen"/>ſolation.</p>
+                        <pb n="30" facs="tcp:109699:20"/>
+                        <p>Thirdly, one of the chief ends of Prayer, is to encourage us to love and acquire vertue; and how can we labor better for the ob<g ref="char:EOLhyphen"/>taining it, then by its exerciſe; for this ſtate of aridity and deſolation, gives us the faireſt occaſion that can be, to practiſe even the beſt and moſt excellent vertues. Firſt of humility; for then we find how weak, poor, and unable we are to do any good; and the great need we are in, of having con<g ref="char:EOLhyphen"/>tinual recourſe to Almighty God. Secondly, of patience, to ſuffer theſe diſguſts, and other irkſome effects of ſo uneaſie a condition, and of our paſſions thoſe attacts, alſo, which while we are in deſolati<g ref="char:EOLhyphen"/>on ſet upon us, with all their force, and put us to no little pain; yet we muſt not withſtanding bear with our ſelves, and perſever in our Prayer, in ſpight of all the re<g ref="char:EOLhyphen"/>pugnance and trouble we find in it. Thirdly of Conformity to Gods Will; by ſubmitting ourſelves to his Divine pleaſure, even then, when he ſeems to be ſo ſevere;
+<pb n="31" facs="tcp:109699:20"/>
+kiſſing with all reſpect that Divine and moſt adorable hand that ſtrikes us, and ſaying with our Savior, <hi>O Father, let me not drink of this Cup, but yet your Will be done, and not mine.</hi> Fourthly of Obe<g ref="char:EOLhyphen"/>dience; by perſevering and con<g ref="char:EOLhyphen"/>tinuing by perſevering and con<g ref="char:EOLhyphen"/>tinuing conſtant in Prayer, not<g ref="char:EOLhyphen"/>withſtanding all our diſguſts, go<g ref="char:EOLhyphen"/>ing on with it, during the whole time preſcrib'd by our Rule, or advis'd by our Spiritual Director.</p>
+                     </div>
+                     <div n="5" type="pretence">
+                        <head>The Fifth Pretence.</head>
+                        <p>Another ſays, I know not how to employ my time, nor how to entertain my ſelf in Mental Pray<g ref="char:EOLhyphen"/>er; I do but looſe my labor and time about it, 'twere better for me to ſay ſome Vocal Prayers, or go about ſome other good work. Saint <hi>Tereſe</hi> her ſelf confeſſes, that this thought had once made ſuch an impreſſion upon her mind, that ſhe was upon the point of giving over Mental Prayer; and ſhe adds that 'twas the moſt ſubtle
+<pb n="32" facs="tcp:109699:21"/>
+and dangerous Temptation, ſhe ever had in her Life; and was like to have overthrown all the de<g ref="char:EOLhyphen"/>ſigns that Almighty God had of her Sanctification.</p>
+                        <p>You looſe your time, you ſay, at your Meditation, becauſe you do nothing; but pray, in the firſt place, can you not, as I have al<g ref="char:EOLhyphen"/>ready obſerv'd, produce ſome Acts of humility, and reſignation? Can you not ſay often with the Pro<g ref="char:EOLhyphen"/>phet, and with the ſame Inten<g ref="char:EOLhyphen"/>tion; <hi>Tanquam jumentum factus ſum apud te; Behold good God here I am juſt like a poor beast before you,</hi> 'tis indeed honor enough for me, that you ſuffer me in your preſence; let other good Souls therefore honor you by their zeal and fer<g ref="char:EOLhyphen"/>vor; 'tis honor enough for me to be able in your preſence ſincerely to acknowledge my weakneſs, and incapacity to do ſo; wherefore let 'em honor you with thoſe admi<g ref="char:EOLhyphen"/>rable lights and Divine Inſpirati<g ref="char:EOLhyphen"/>ons you beſtow upon 'em, and permit me, in darkneſs and ari<g ref="char:EOLhyphen"/>dity, to remain in your Preſence
+<pb n="33" facs="tcp:109699:21"/>
+with profound humility profeſſing my unworthineſs of the favors they receive, and let me with true con<g ref="char:EOLhyphen"/>formity, ſay from the bottom of my heart, <hi>your Holy Will be done.</hi>
+                        </p>
+                        <p>Secondly, you may unite your ſelf with ſo many other pious Souls, who with very great zeal and fideli<g ref="char:EOLhyphen"/>ty, are attentive to their Medita<g ref="char:EOLhyphen"/>tion; offer their Prayers to God, and bleſs him for the favors he beſtows upon 'em; or make uſe of the practiſe of that good Clown that follow'd Saint <hi>Ignace</hi> and his Companions in their Voyage, who when they kneel'd down to make their Prayer, kneel'd with 'em, and addreſt himſelf to Almigh<g ref="char:EOLhyphen"/>ty God with a great and humble ſimplicity in theſe words; <hi>Alas my good God, I know not how to ſpeak to you, nor how to Pray as I ought, nor as theſe Vertuous good Men do, but I joyn with 'em, and wiſh that I could ſpeak to you as they do.</hi> Or you may ſtill do better than he, by uniting your Prayer with our bleſ<g ref="char:EOLhyphen"/>ſed Saviors. Pray therefore with him, and offer to God the Fa<g ref="char:EOLhyphen"/>ther,
+<pb n="34" facs="tcp:109699:22"/>
+the Prayer our Savior makes for you.</p>
+                        <p>Thirdly, you may employ your thoughts in reflecting upon your own miſeries, in calling to mind your grievous ſins, and infidelities, and mourning for 'em; and if you do not find your ſelf touch't with ſorrow enough, beg of God a contrite an humble heart, which he alone can give; telling him, that you can offend him without him, but you cannot have a due ſorrow for having offended him, without his Divine aſſiſtance.</p>
+                        <p>Fourthly, you may paſs the time of your Prayer, in making Acts of Faith, Adoration, Hope, Charity, and Confidence in God; a Meditation made after this man<g ref="char:EOLhyphen"/>ner, is a good Prayer.</p>
+                        <p>Fifthly, employ the time of your Meditation in examining what paſſion 'tis that ſways you moſt? What effects it produces? What are the conſequences and dangers of theſe effects? What means you ought to uſe for reſiſt<g ref="char:EOLhyphen"/>ing and overcoming that paſſion?
+<pb n="35" facs="tcp:109699:22"/>
+You may do the ſame in reſpect of any ill habit you have con<g ref="char:EOLhyphen"/>tracted.</p>
+                        <p>Sixthly, think upon, and often call to mind during your Prayer, thoſe many and great obligations which you have to Almighty God, them any bleſſings you have receiv'd from him, which thô they are uni<g ref="char:EOLhyphen"/>verſal, yet are not the leſs great upon that account; nor ought you to be leſs ſenſible of 'em: But above all, you ought to conſider certain particular favors, which uſually move us more, becauſe they carry with 'em a mark of diſtinction; which ſelf love renders commonly more ſenſible of; there is no Man that paſſing over, and conſidering the whole courſe of his Life, but will plainly diſcover many tracts of a ſpecial Providence, that have ſweetly, and efficaciouſly guided, and preſerv'd him amidſt a thouſand dangers, in which he had infallably periſh't, without Gods particular and powerful Protecti<g ref="char:EOLhyphen"/>on; which obliges us to make our humble and thankful acknow<g ref="char:EOLhyphen"/>ledgements,
+<pb n="36" facs="tcp:109699:23"/>
+and to ſay with the Prophet, when he invites all Crea<g ref="char:EOLhyphen"/>tures to joyn with him in bleſſing and praiſing God; <hi>Benedic anima mea Domino—qui redimit de in<g ref="char:EOLhyphen"/>teritu vitam tuam: Qui coronat te in miſericordia &amp; miſerationibus. Bleſs the Lord O my Soul—who redeems thy life from deſtruction, and crowns thee with mercy and compaſſion.</hi>
+                        </p>
+                        <p>Seventhly, 'tis a very uſeful and profitable exerciſe during the time of Prayer, to make pious re<g ref="char:EOLhyphen"/>ſolutions; and conſider what oc<g ref="char:EOLhyphen"/>caſion we are like to have, to put 'em that day in practiſe; and to take our meaſures how to over<g ref="char:EOLhyphen"/>come thoſe difficulties we are like to meet with. For the chief end and aim of Prayer is to prepare us to Act well; ſo that Prayer is beſt made, which is follow'd with good effects.</p>
+                     </div>
+                     <div n="6" type="pretence">
+                        <head>The Sixth Pretence.</head>
+                        <p>There are ſome perſons that are naturally ſo modeſt, and have ſuch
+<pb n="37" facs="tcp:109699:23"/>
+mean and low thoughts of them<g ref="char:EOLhyphen"/>ſelves, as to believe they are in<g ref="char:EOLhyphen"/>capable of Meditating, and are perſwaded, that to be able to Me<g ref="char:EOLhyphen"/>ditate, one muſt have greater wit and more eminent parts, than they can find themſelves to be owners of; and there wants not ſome Di<g ref="char:EOLhyphen"/>rectors, who being neither very Spiritual themſelves, nor us'd to Prayer, do by their fooliſh Maxims and weak conduct, authorize this dangerous illuſion: believing that a young Maid ought to content and employ her ſelf wholly at her work, and a Marry'd Woman only buſie her ſelf with the care of her Family, and Houſe-hold affairs.</p>
+                        <p>But experience ſhews us how vain this pretence is, for how ma<g ref="char:EOLhyphen"/>ny perſons do we ſee of mean wit, but of a pure and humble heart, that are endow'd with an excellent gift of Prayer? And find more facility in the exerciſe of that in<g ref="char:EOLhyphen"/>terior converſation with God, than Men of the greateſt Wit or Learning do experience. Do's not the Holy Ghoſt aſſure us that
+<pb n="38" facs="tcp:109699:24"/>
+God takes pleaſure in entertaining himſelf with ſimple, good, and ſincere Souls? <hi>Cum ſimplicibus ſor<g ref="char:EOLhyphen"/>mocinatio ejus;</hi> and do's not the Son of God, thank his Hea<g ref="char:EOLhyphen"/>venly Father, that he is pleas'd to diſcover his Divine ſecrets no little ones? That is, to the ig<g ref="char:EOLhyphen"/>norant; while in the mean time he hides 'em from the Wordly Wiſe, and from great and pre<g ref="char:EOLhyphen"/>ſumptuous Wits?</p>
+                        <p>The heart has a greater ſhare in Prayer than the underſtanding; and there needs only a good heart, to render a Man capable of mak<g ref="char:EOLhyphen"/>ing a good Prayer. The buſineſs is not to raiſe high thoughts, and quaint diſcourſes; but to pene<g ref="char:EOLhyphen"/>trate and be convinc't of ordinary and plain truths. One good thought well ponder'd may em<g ref="char:EOLhyphen"/>ploy a Man during the whole time of his Prayer. Saint <hi>Francis</hi> paſt whole Nights in Meditating theſe few words, <hi>Deus mens &amp; omnia; My God and my All;</hi> and our bleſ<g ref="char:EOLhyphen"/>ſed Savior in his Prayer in the Garden repeated only theſe words,
+<pb n="39" facs="tcp:109699:24"/>
+                           <hi>Tranſeat à me Calix iste verunta<g ref="char:EOLhyphen"/>men non ſicut ego volo ſed ſicut tu; Father I beſeech you that I may not drink of this bitter Cup of my Paſſion, but let it not be as I will, but as you will;</hi> which made Saint <hi>Ignace</hi> ſay in his Exerciſes, <hi>That the fruit of Prayer, do's not conſist in many thoughts, but in the great feelings.</hi>
+                        </p>
+                        <p>But the weakneſs of this pre<g ref="char:EOLhyphen"/>tence will be more clearly demon<g ref="char:EOLhyphen"/>ſtrated in the following Chap<g ref="char:EOLhyphen"/>ter, where we ſhall ſee how eaſie 'tis for any Man to make his Medi<g ref="char:EOLhyphen"/>tation.</p>
+                     </div>
+                  </div>
+                  <div n="3" type="chapter">
+                     <pb n="40" facs="tcp:109699:25"/>
+                     <head>CHAP. III. Of the facility of Meditation.</head>
+                     <div n="1" type="section">
+                        <head>§. 1. Shewing how caſie 'tis for any Man to Meditate or make Mental Prayer.</head>
+                        <p>I Cannot imagine how an opini<g ref="char:EOLhyphen"/>on ſo ill grounded, as that is, which occaſions Men to fancy ſo great and extraordinary a diffi<g ref="char:EOLhyphen"/>culty, in Meditation and Mental Prayer, comes to be ſo generally receiv'd; methinks there is no<g ref="char:EOLhyphen"/>thing ſo eaſie, as to diſabuſe 'em in this point, and make 'em ſee and acknowledge, if they will deal ſincerely, how groſs that Error is; for there is ſcarce any Man that is not capable of Meditating; and to do it, there needs but ſuch an ordinary capacity, as ſuffices
+<pb n="41" facs="tcp:109699:25"/>
+for the ſmalleſt and eaſieſt ſort of buſineſs, which the generality of Mankind does poſſeſs.</p>
+                        <p>In fine, there needs no more, but being capable of reaſon, to enable any Man to make Mental Prayer; for Prayer is nothing elſe, but the Exerciſe of the three faculties of our Soul, that is, of our Memo<g ref="char:EOLhyphen"/>ry, Vnderſtanding, and Will, which three faculties we make vſe of in Meditation, to think upon the great affair of our Salvation, and thoſe Truths our Faith teaches us, in the ſame manner as we make uſe of 'em in reaſoning, and con<g ref="char:EOLhyphen"/>ſidering any affair that concerns our Temporal intereſt, and our other Worldly buſineſs and em<g ref="char:EOLhyphen"/>ployments.</p>
+                        <p>A Merchant has no difficulty in reaſoning and reflecting upon what concerns his commerce; a Huſ<g ref="char:EOLhyphen"/>band man upon his Tillage; a Tradſe-man upon his Calling; nor a good Huf-wife upon her Houſhold affairs; all theſe per<g ref="char:EOLhyphen"/>ſons make frequent reflections up<g ref="char:EOLhyphen"/>on what has before happen'd to
+<pb n="42" facs="tcp:109699:26"/>
+'em, to diſtinguiſh what they have found advantageous and profitable, and what has prov'd inconvenient, or occaſion'd their loſs; and how little brains ſoever they have, upon theſe reflections they take the beſt meaſures they can, and conſider the beſt means how to ſucceed in their buſineſs: They look forward and provide againſt thoſe accidents they fear may happen, to croſs and hinder 'em: What there<g ref="char:EOLhyphen"/>fore can hinder 'em from doing the ſame in the buſineſs of their Salvation? Why ſhould they not in the ſame manner reflect upon what may be uſeful, and a further<g ref="char:EOLhyphen"/>ance to 'em, and upon what ſtands in their way and hinders 'em? Why ſhould they not examin well the ſtate of their Soul? How 'tis diſpos'd and inclin'd? And con<g ref="char:EOLhyphen"/>ſider what they ought to purſue, and what avoid? This is all we call Meditation; and is it not what all the World practiſes?</p>
+                     </div>
+                     <div n="2" type="section">
+                        <pb n="43" facs="tcp:109699:26"/>
+                        <head>§. 2. Shewing farther and more particularly how eaſie 'tis to Meditate, by ex<g ref="char:EOLhyphen"/>plicating the method that is to be obſerv'd in Meditation.</head>
+                        <p>To deſcend to particulars, and prove how eaſie 'tis to Meditate, we muſt ſuppoſe that Meditation is nothing elſe but the exerciſe of the three faculties of our Soul, our Memory, Vnderſtanding and Will, which we apply to conſider Chri<g ref="char:EOLhyphen"/>ſtian Truths, and whatſoever may concern our Eternal Salvation.</p>
+                        <p>After we have put our ſelves in the Preſence of Almighty God by an Act of Faith, whereby we know and believe he is every where; and after we have firſt ador'd that Soveraign Majeſty, with whom we take the liberty to treat in our Prayer, ſaying with <hi>Abraham, How dare I ſpeak to my God, I that am but dust and aſhes?</hi> And after we have made an Act of Contri<g ref="char:EOLhyphen"/>tion, to cleanſe our ſelves from
+<pb n="44" facs="tcp:109699:27"/>
+our ſins, which are great obſtacles in our Communication with God; having firſt beg'd of him to aſſiſt us, with the light of his Grace, ne<g ref="char:EOLhyphen"/>ceſſary for our Meditation, that our Souls may reap benefit there<g ref="char:EOLhyphen"/>by, we muſt apply our Memory to call to mind that Chriſtian truth, or myſtery upon which we intend to Meditate, and think of it ſeri<g ref="char:EOLhyphen"/>ouſly, and with the beſt attention we are able, this is the proper ex<g ref="char:EOLhyphen"/>crciſe of our Memory.</p>
+                        <p>How little capacity ſoever we have 'tis morally impoſſible, but ſome reflections will ariſe, and pre<g ref="char:EOLhyphen"/>ſent themſelves to us concerning that verity we Meditate upon; and one reflection is ſufficient to entertain us, if we endeavor to taſt and penetrate it well; from whence there will naturally follow a looking back upon our ſelves, which is a kind of ſecond reflect<g ref="char:EOLhyphen"/>ion, whereby we apply to our ſelves that truth we before conſider'd, in order to draw from thence ſome concluſion for the reforming and better regulating our manner and
+<pb n="45" facs="tcp:109699:27"/>
+way of living; thus we exerciſe our Vnderſtanding.</p>
+                        <p>Our Vnderſtanding having made this diſcourſe, and receiv'd this light, it cannot be, but the Will muſt feel ſeveral motions, according to the diverſity of the objects, and re<g ref="char:EOLhyphen"/>flections that have occur'd to us; for if thoſe objects are in them<g ref="char:EOLhyphen"/>ſelves great and lovely, they will raiſe in our Wills Love, Admira<g ref="char:EOLhyphen"/>tion, Gratitude, Deſire, Hope, and Ioy; if they are in themſelves terrible, they will produce in our hearts; Fear, Averſion, Horror, Confuſion, Sorrow, and Repen<g ref="char:EOLhyphen"/>tance, in which Acts conſiſts the exerciſe of the Will.</p>
+                        <p>This is the Method of Prayer, which Saint <hi>Ignace</hi> has taught us, in his <hi>Exerciſes;</hi> a Method both ſolid and eaſie, approv'd by the Sea Apoſtolique, and Practis'd by ſo many Holy Men; whereby ver<g ref="char:EOLhyphen"/>tuous Souls have found very great benefit, thô the half witted, and malitious have endeavor'd to cry it down; but can no more pre<g ref="char:EOLhyphen"/>vail, than thoſe Phanatiques,
+<pb n="46" facs="tcp:109699:28"/>
+and other viſionary myſtiques, who would have it under-valu'd, as if 'twere below thoſe great and elevat<g ref="char:EOLhyphen"/>ed Souls, whom God calls to Con<g ref="char:EOLhyphen"/>templation, to practiſe it; for all Spiritual and experienc't perſons grant, that this manner of Prayer cannot lead or diſpoſe us to an empty dreaming Contemplati<g ref="char:EOLhyphen"/>on, which by ſad experience, in theſe latter days, is found ſub<g ref="char:EOLhyphen"/>ject to very great illuſions, no leſs extravagant, than dangerous; but to a ſolid Contemplation, which is the fruit of a continual Morti<g ref="char:EOLhyphen"/>fying of ſelf love, our own Will, Paſſions, and Senſes, to which this Method of Bleſſed Saint <hi>Ignace</hi> inſenſibly conducts thoſe Pious Souls that are punctual in obſerv<g ref="char:EOLhyphen"/>ing and following his Method:</p>
+                     </div>
+                  </div>
+                  <div n="4" type="chapter">
+                     <pb n="47" facs="tcp:109699:28"/>
+                     <head>CHAP. IV. Shews how to Practiſe Mental Prayer.</head>
+                     <p>TO reduce this Method, we have explicated into Practiſe, and render it eaſie for all per<g ref="char:EOLhyphen"/>ſons, 'tis neceſſary to give ſome Examples upon the different ſub<g ref="char:EOLhyphen"/>jects of Meditation.</p>
+                     <p>All the ſuject, upon which we are to Meditate, may be reduc't to ſeven heads; which are contain'd in the Hiſtories of Holy Scrip<g ref="char:EOLhyphen"/>ture; as the fall of the Angels, the ſin of <hi>Adam,</hi> the Converſion of Saint <hi>Mary Magdalen.</hi> Secondly, Moral and Chriſtian Verities; as thoſe which ſet fourth the im<g ref="char:EOLhyphen"/>portance of our Etèrnal Salvation, the neceſſity of repentance, the certitude of Death, and the in<g ref="char:EOLhyphen"/>certitude of the time. Thirdly, the Myſteries of our Bleſſed Sa<g ref="char:EOLhyphen"/>viors
+<pb n="48" facs="tcp:109699:29"/>
+Life upon Earth; as his In<g ref="char:EOLhyphen"/>carnation, Nativity, and Paſſion. Fourthly, ſuch Maxims of the Holy Goſpel as this; <hi>If any Man will come after me, let him deny himſelf and take up his Croſs and follow me.</hi> Fifthly, the Parables in the Goſ<g ref="char:EOLhyphen"/>pel; as, that of the Barren Fig-Tree. Sixthly, the Actions of our Bleſſed Savior; as, his waſhing the Feet of the Apoſtles. Seventh<g ref="char:EOLhyphen"/>ly, the Attributes and Perfections of Almighty God; as his Immen<g ref="char:EOLhyphen"/>ſity, Infinite Power, Mercy, and Goodneſs, <hi>&amp;c.</hi>
+                     </p>
+                     <div n="1" type="section">
+                        <head>§. 1. The Application of the Method, we have already explicated, to ſome Historical paſſage in Holy Scrip<g ref="char:EOLhyphen"/>ture, as for example to that of the fall of the Angels.</head>
+                        <div type="subsection">
+                           <head>The Exerciſe of our Memory.</head>
+                           <p>Call to mind, that the Angels being Created by Almighty God, in a ſtate of great Perfection, in<g ref="char:EOLhyphen"/>ſtead
+<pb n="49" facs="tcp:109699:29"/>
+of Attributing the happineſs they enjoy'd, to him from whom they had receiv'd it, and looking upon him as their laſt End; where<g ref="char:EOLhyphen"/>by, together with their fidelity and ſubmiſſion, they merited that infinite happineſs, for which they were deſtin'd, ſuffer'd themſelves to be puffed up with a moſt un<g ref="char:EOLhyphen"/>grateful and criminal vanity, ima<g ref="char:EOLhyphen"/>gining they were rich and powerful enough of themſelves, without de<g ref="char:EOLhyphen"/>pending upon Almighty God; or conſidering him as their laſt end and only felicity, which ob<g ref="char:EOLhyphen"/>lig'd God to puniſh them <gap reason="illegible" resp="#UOM" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap> ride, by caſting them head-long into Hell, there to glorifie his Iuſtice, by their Eternal pain; ſince they would not glorifie his goodneſs and power, by ſubmitting them<g ref="char:EOLhyphen"/>ſelves willingly, to his Holy and Divine Law.</p>
+                        </div>
+                        <div type="subsection">
+                           <head>The Exerciſe of our Understanding, or Reflection upon this History.</head>
+                           <p>Mortal ſin muſt needs be very horrible and deteſtable in Gods
+<pb n="50" facs="tcp:109699:30"/>
+ſight, ſince he who is all Wiſdom, Goodneſs, and Mercy, puniſhes by ſo grievous and infinite pains, ſo great a number of ſuch excellent Creatures, as the Angels are, for one Mortal ſin, and that only in thought, and but of one moments duration.</p>
+                        </div>
+                        <div type="subsection">
+                           <head>The Application of this reflection, or the return and looking back up<g ref="char:EOLhyphen"/>on our ſelves.</head>
+                           <p>If God has with ſo great ſeveri<g ref="char:EOLhyphen"/>ty puniſh't the Angels, that were capabl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap> 
+                              <gap reason="illegible" resp="#UOM" extent="1 word">
+                                 <desc>〈◊〉</desc>
+                              </gap> procuring him ſo much glory; how can I hope that he will treat me more favorably: I, who am ſo miſerable and poor a Creature, guilty of ſo many and ſuch grievous ſins, as from time to time I have heapt together, the leaſt of which deſerves Eternal Torments.</p>
+                        </div>
+                        <div type="subsection">
+                           <head>The Exerciſe of the Will.</head>
+                           <p>The motions of the Will, that naturally ariſe from this reflection,
+<pb n="51" facs="tcp:109699:30"/>
+are, Firſt, that of Aſtoniſhment, to ſee ſo great ſeverity us'd to<g ref="char:EOLhyphen"/>wards the Angels, and ſo great mercy and patien<gap reason="illegible" resp="#UOM" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap> towards me. Secondly, of Confuſion, for hav<g ref="char:EOLhyphen"/>ing ſo long time abus'd ſuch infi<g ref="char:EOLhyphen"/>nite goodneſs. Thirdly, of Grief for my ſins, which have expos'd me to the great danger of under<g ref="char:EOLhyphen"/>going the ſame rigour of the Di<g ref="char:EOLhyphen"/>vine Iuſtice. Fourthly, of Fear, leaſt if I continue longer in my ſins, I ſhall tire out Gods patience, and be ſent to accompany thoſe wicked Angels in their pain, as I have fol<g ref="char:EOLhyphen"/>low'd 'em in their Rebellion. Fifth<g ref="char:EOLhyphen"/>ly, of a Strong Reſolution, after I have implor'd the mercy and aſ<g ref="char:EOLhyphen"/>ſiſtance of Almighty God, to do all I can poſſible to prevent by my true repentance, the terrible miſe<g ref="char:EOLhyphen"/>ries with which I am threatned, and which I juſtly deſerve.</p>
+                        </div>
+                     </div>
+                     <div n="2" type="section">
+                        <pb n="52" facs="tcp:109699:31"/>
+                        <head>§. 2. Application of the ſame Method to a Moral Chriſtian Verity. The Incertitude of a ſudden and un<g ref="char:EOLhyphen"/>expected Death.</head>
+                        <div type="subsection">
+                           <head>The Exerciſe of the Memory.</head>
+                           <p>To call to mind, and conſider very well this important truth, which not only our reaſon, but our ſenſes, and dayly experience ſet alſo before our Eyes; that there is nothing ſo certain, and withal ſo uncertain as Death; no<g ref="char:EOLhyphen"/>thing ſo certain, as that we muſt dye; and nothing ſo uncertain, as when, and how we ſhall dye; <hi>You know not,</hi> ſays our Bleſſed Savior, <hi>neither the bour, nor the day; you know not when the Son of Man will come; for be will come as a thief to ſurpriſe you, he will come when you lest think ont.</hi>
+                           </p>
+                        </div>
+                        <div type="subsection">
+                           <pb n="53" facs="tcp:109699:31"/>
+                           <head>The Exerciſe of the Understanding, or Reflection upon this Verity.</head>
+                           <p>If we cannot tell when Death will come, we ought to be watch<g ref="char:EOLhyphen"/>ful, and always upon our guard, and always ready and prepar'd for it. 'Tis the ſame reflection which our Savior himſelf made, and the concluſion he would have us to draw from this truth, <hi>Vigilate, eſtote Parati, Watch and be ready,</hi> he does not ſay, that when Death ſhall come, we muſt think of mak<g ref="char:EOLhyphen"/>ing our ſelves ready, and prepare for it; but we muſt be always ready; becauſe Death will other<g ref="char:EOLhyphen"/>wiſe ſurpriſe us, and not allow us time to diſpoſe our ſelves for it; and what ruin and miſery muſt it needs bring upon us, if we are forc't to depart this Life, with out having made a neceſſary preparati<g ref="char:EOLhyphen"/>on and proviſion for ſo terrible a paſſage, as that is to the next, from time to Eternity.</p>
+                        </div>
+                        <div type="subsection">
+                           <pb n="54" facs="tcp:109699:32"/>
+                           <head>The Application of this Reflection, or the return and looking back upon our ſelves.</head>
+                           <p>If Death ſhould come now this preſent hour and ſurprize me, would it find me ready? Am I in that condition, in which I ſhould wiſh my ſelf if I were to dye pre<g ref="char:EOLhyphen"/>ſently? And ſince 'tis poſſible I may be ſurpris'd every hour by Death, how comes it to paſs that I dare live in a condition, in which I ſhould not be willing to dye? Can there be any care or ſecurity too great, in a buſineſs wherein my Eternal happineſs, or Eternal miſery lies at ſtake? And ſeeing I am forewarn'd that Death will come when I leaſt think of it, ought I not always to think ont? To prevent being ſurpriz'd by it.</p>
+                        </div>
+                        <div type="subsection">
+                           <head>The Exerciſe of the Will.</head>
+                           <p>The motions which naturally ariſe from this reflection, are, Firſt, of Amazement, by conſider<g ref="char:EOLhyphen"/>ing
+<pb n="55" facs="tcp:109699:32"/>
+the blindneſs and ſtupidity of moſt Men, who being ſo often and ſo expreſly warn'd by our Savior himſelf, to watch always, to avoid their being ſurpris'd; yet never<g ref="char:EOLhyphen"/>theleſs make ſo little benefit of ſo good advice, as never to think of being always upon their guard, or making themſelves ready, thô they know very well the ſad conſequen<g ref="char:EOLhyphen"/>ces, of ſuch a ſurpriſe, which muſt of neceſſity end in Eternal miſery. Secondly, of Confuſion, to have trifl'd, and dwelt ſo long in ſo wilful and miſerable blindneſs as this is. Thirdly, of Grief, for hav<g ref="char:EOLhyphen"/>ing by this means expos'd my ſelf to dye in my ſins, and conſequent<g ref="char:EOLhyphen"/>ly to be Eternally ſeparated from God, and ſuffer the torments of the Damn'd for all Eternity. Fourthly, of Acknowledgment and Gratitude towards God, that he has been pleas'd not to ſuffer me to be ſurpris'd by Death as I de<g ref="char:EOLhyphen"/>ſerv'd. Fifthly, of Fear, leſt if I do not for the future make better uſe of the advice our Bleſſed Savior has himſelf given me, he will at
+<pb n="56" facs="tcp:109699:33"/>
+laſt, puniſh ſo wilful and unexcuſ<g ref="char:EOLhyphen"/>able a neglect in a matter of this great concern, by permitting my being ſupris'd by a ſudden Death, as too many others have been. Sixthly, of a Sincere and Firm Re<g ref="char:EOLhyphen"/>ſolution to do what poſſibly I can, by the aſſiſtance of Gods holy Grace, to keep my ſelf always ready, and in a condition ſit to ap<g ref="char:EOLhyphen"/>pear before him, whenſoever he ſhall pleaſe to call me; and in order to that, to watch continually, and to live every day, as if that day were to prove the laſt of my Life.</p>
+                        </div>
+                     </div>
+                     <div n="3" type="section">
+                        <head>§. 3. The Application of the ſame Method to one of the Myſteries of our bleſſed Saviors Life. The Nativity of our bleſſed Savior.</head>
+                        <div type="subsection">
+                           <head>The Exerciſe of the Memory.</head>
+                           <p>Conſider how the bleſſed Virgin being arriv'd at <hi>Bethleem,</hi> and the time of her Delivery approaching,
+<pb n="57" facs="tcp:109699:33"/>
+finding none that would afford her Lodging, ſhe was oblig'd to retire into a poor Stable, open on all ſides, and expos'd to the bitter<g ref="char:EOLhyphen"/>neſs of the weather. Such was the poor and miſerable Lodging that our Bleſled Savior would be Born in, where he was lay'd in the Manger upon Straw, in great want of all things, and without any hu<g ref="char:EOLhyphen"/>man comfort or aſſiſtance.</p>
+                        </div>
+                        <div type="subsection">
+                           <head>The Exerciſe of the Underſtanding, or Reflection upon this Myſtery.</head>
+                           <p>He whom I ſee in this poor Manger, is God; if he be God, he cannot but be infinitely power<g ref="char:EOLhyphen"/>ful, and infinitely wiſe; if he be infinitely powerful, nothing could force or oblige him to put him<g ref="char:EOLhyphen"/>ſelf in ſo low, poor, and ſuffering a condition as this: It muſt be then his own choice, where by he lets us ſee that he prefers this condi<g ref="char:EOLhyphen"/>tion before any other; and if his Wiſdom be infinite, he has certainly all the knowledge requiſite to make a good choice, and therefore cannot
+<pb n="58" facs="tcp:109699:34"/>
+be deceived in it; whence it muſt neceſlarily and evidently follow, that the ſtate of humiliation, of poverty and ſuffering, which <hi>Jeſus Chriſt</hi> has prefer'd before all the grandeur of wealth, and pleaſures of the World, is infallibly the beſt.</p>
+                        </div>
+                        <div type="subsection">
+                           <head>Application of this Reflection, or the looking back upon our own ſelves.</head>
+                           <p>Have I been hitherto of the ſame opinion and judgment in this point, with my Bleſſed Sa<g ref="char:EOLhyphen"/>vior? Or rather have I not been of a quite contrary opinion? Either he or I, then muſt have been deceiv'd, but it was impoſſible for him to be deceiv'd, ſeeing he is Eternal Wiſdom, and therefore infallible? Wherefore I muſt cer<g ref="char:EOLhyphen"/>tainly till now have been deluded, and liv'd all this while in a groſs Error.</p>
+                        </div>
+                        <div type="subsection">
+                           <head>The Exerciſe of the Will.</head>
+                           <p>The motions that follow this reflection, are, Firſt, of Admira<g ref="char:EOLhyphen"/>tion,
+<pb n="59" facs="tcp:109699:34"/>
+to ſee God himſelf, out of his Love to us, and to ſerve us for an example, reduc't to ſo poor and low a condition, as this. Secondly, of Love and Gratitude for ſo great and wonderful a good<g ref="char:EOLhyphen"/>neſs. Thirdly, of Confuſion and Grief to have liv'd ſo long in a perſwaſion ſo contrary to that of my Saviors; and by my conduct, to have in a manner condemn'd his Bleſſed choice, to have plac't my affection, and ſpent the beſt part of that Life he has given me to ſerve him, in the purſuit of thoſe imaginary goods, for which my Savior never ſhew'd any eſteem, but always ſcorn'd and contemn'd 'em. Fourthly, of Fear, leſt if I do not follow and imitate my Bleſled Savior, in his humility and poverty in the Manger, I ſhall looſe that infinite happineſs of partaking one day with him in his ever laſt<g ref="char:EOLhyphen"/>ing Glory in Heaven. Fifthly, of a Firm Reſolution to reform my conduct and manner of living, begging of my deareſt and Divine <hi>Jeſus,</hi> who for my ſake was thus
+<pb n="60" facs="tcp:109699:35"/>
+Born in a poor Stable, that he would give me the courage to imitate his admirable example.</p>
+                        </div>
+                     </div>
+                     <div n="4" type="section">
+                        <head>§. 4. Application of the ſame Method to a Maxim of the Goſpel. If any Man will come after me let him deny himſelf, and take up his Croſs and follow me.</head>
+                        <div type="subsection">
+                           <head>The Exerciſe of the Memory.</head>
+                           <p>Conſider well and with great attention thoſe words of our Sa<g ref="char:EOLhyphen"/>viour; <hi>If any Man will come after me, let him deny himſelf, and take up his Croſs and follow me,</hi> and imagine that you hear our Bleſled Savior Preaching this Maxim to you, as well as to his Diſciples.</p>
+                        </div>
+                        <div type="subsection">
+                           <head>The Exerciſe of the <g ref="char:V">Ʋ</g>nderstanding, or Reflection upon this Maxim.</head>
+                           <p>We cannot be Diſciples of <hi>Jeſus Chriſt,</hi> that is, we cannot be true
+<pb n="61" facs="tcp:109699:35"/>
+good <hi>Chriſtians</hi> unleſs we follow him; and we cannot follow him unleſs we deny our ſelves, and un<g ref="char:EOLhyphen"/>leſs we carry his Croſs; but what is it, to deny our ſelves, but to curb our own humor, to renounce our inclinations, deſires, intereſt, all the diſorderly motions of our heart, and infine, renounce all that may prove dangerous or criminal? And what is it to carry our Croſs, but to tame our paſſions, mortifie our ſenſes, chaſtiſe our bodies, embrace thoſe things that ſeem painful and irkſome; or at leſt bear all afflictions willingly and with patience, when ever it pleaſes God to ſend 'em?.</p>
+                        </div>
+                        <div type="subsection">
+                           <head>The Application of this Reflection, or the looking back upon our ſelves.</head>
+                           <p>We make Profeſſion of being Chriſtians, and of following of <hi>Jeſus Christ,</hi> we are then under an indiſpenſable obligation of deny<g ref="char:EOLhyphen"/>ing our ſelves, of dayly carrying our Croſs, ſince in the judgment of our Bleſſed Savior, the one fol<g ref="char:EOLhyphen"/>lows
+<pb n="62" facs="tcp:109699:36"/>
+neceſſarily out of the other; but do we practiſe it, or do we not practiſe quite the contrary? Do we not act continually according to our own humor? Do we not yield to whatever our natural in<g ref="char:EOLhyphen"/>clinations require from us? Do not we abhor, and avoid, with all care imaginable, whatever mortifies or puts any conſtraint upon our Wills? Do we not run away from the Croſs as faſt as we can, and mur<g ref="char:EOLhyphen"/>mur when God ſends us any? And can we call this the following of <hi>Chriſt,</hi> and the being a Chri<g ref="char:EOLhyphen"/>ſtian? Whilſt we act quite contrary to what the Name of Chriſtian obliges us to do:</p>
+                        </div>
+                        <div type="subsection">
+                           <head>The Exerciſe of the will.</head>
+                           <p>The motions that ariſe from theſe reflections, are theſe. Firſt, of Aſtoniſhment, to ſee moſt of thoſe that bear the Name of Chri<g ref="char:EOLhyphen"/>ſtians take ſo little care, and mind ſo little the duties of a <hi>Chriſtian:</hi> And inſtead of following our Bleſ<g ref="char:EOLhyphen"/>ſed Savior, as they are oblig'd to
+<pb n="63" facs="tcp:109699:36"/>
+do, by their promiſe and engage<g ref="char:EOLhyphen"/>ment in Baptiſm, endeavor in a manner to oppoſe his Doctrin, both in their opinion and conduct. Secondly, of Confuſion, to ſee that we our ſelves who have the honor to bear the Name of <hi>Chri<g ref="char:EOLhyphen"/>stians,</hi> are of the number of thoſe blind People, who diſhonor Chriſtianity by a diſorderly and ſenſual Life. Thirdly, of Grief, for having been till now ſuch cowardly betrayers of our Profeſ<g ref="char:EOLhyphen"/>ſion, and ſuch unfaithful Diſciples of <hi>Jeſus Christ,</hi> Fourthly, of Fear, leſt the Character of <hi>Chriſtian,</hi> ſerve at the Day of Iudgment for our Condemnation; when on the one ſide, the obligations which ſo honorable a quality impos'd upon us, will be clearly manifeſted to us, And on the other ſide, our man<g ref="char:EOLhyphen"/>ner of living will be diſcover'd to have been quite different and op<g ref="char:EOLhyphen"/>poſite to thoſe obligations. Fifth<g ref="char:EOLhyphen"/>ly, of a Firm Reſolution, to ful<g ref="char:EOLhyphen"/>fil better for the future, all the duties of a true Chriſtian, implor<g ref="char:EOLhyphen"/>ing our Bleſſed Saviors mercy and
+<pb n="64" facs="tcp:109699:37"/>
+pardon for our paſt faults, and begging the Aſſiſtance of his Holy Grace for the time to come, and courage ſufficient to take up the Croſs and carry it after him.</p>
+                        </div>
+                     </div>
+                     <div n="5" type="section">
+                        <head>§. 5. The Application of the ſame Method to a Parable in the Goſpel. Of the Barren Fig-Tree.</head>
+                        <div type="subsection">
+                           <head>The Exerciſe of the Memory.</head>
+                           <p>Remember the Parable of the Barren Fig-Tree, ſet down in the thirteenth Chapter of Saint <hi>Luke,</hi> where 'tis ſayd, that the Maſter of the Vineyard, coming to gather fruit from a certain Fig-Tree plan<g ref="char:EOLhyphen"/>ted in his Vineyard, and finding none, ſpoke thus to his Servant; <hi>'Tis three Years ſince I have still ex<g ref="char:EOLhyphen"/>pected fruit from this Fig-Tree, but can find none; let it be cut down, for why ſhould it take up the room of another good fruitful Tree to no purpoſe.</hi>
+                           </p>
+                        </div>
+                        <div type="subsection">
+                           <pb n="65" facs="tcp:109699:37"/>
+                           <head>The Exerciſe of the Understanding, or Reflection upon this Parable.</head>
+                           <p>This Barren Fig-Tree that bore Leaves enough but no fruit, re<g ref="char:EOLhyphen"/>preſents ſeveral perſons, who making a fair outward ſhow, de<g ref="char:EOLhyphen"/>ceive themſelves, and impoſe upon others by bearing no fruit; be<g ref="char:EOLhyphen"/>cauſe they do not apply themſelves to works of Charity, and the practice of other Chriſtian Vertues, but lead ſuch a ſort of Life, which thô it ſeems not very diſorderly, yet is ſo in effect; becauſe 'tis unprofitable; for, not to do good, is a very great evil in it ſelf; and the unprofitable Servant in the Goſpel, was Condemned as an ill Servant, that deſerv'd to be caſt into utter darkneſs, that is to ſay, into Hell.</p>
+                        </div>
+                        <div type="subsection">
+                           <head>The Application of this Reflection, or the looking back upon our ſelves.</head>
+                           <p>Am not I like this Barren Fig-Tree? Do not I content my ſelf
+<pb n="66" facs="tcp:109699:38"/>
+with bearing a fair ſhow of goodly Leaves, without having any fruit? That is, have I not an outward ap<g ref="char:EOLhyphen"/>pearance of Vertue, without the real ſubſtance of it? Seeking the approbation and vain applauſe of Men, who judge by the outſide, without taking due care to pleaſe Almighty God, who ſees and pe<g ref="char:EOLhyphen"/>netrates the moſt ſecret deſigns and hidden intentions of my heart; and can diſtinguiſh the fruit from the leaves, the good and bad intended actions, from thoſe that are not ſo: Do not I miſtake thoſe acti<g ref="char:EOLhyphen"/>ons, which are the effects of good Nature, or good Education, or done out of ſome human reſpect, to be the real fruits of true Ver<g ref="char:EOLhyphen"/>tue and Piety? And does not ſome ſecret vanity, the deſire of preſerving my reputation, or be<g ref="char:EOLhyphen"/>ing accounted a perſon of great probity, paſs with me for a ſolid Vertue? Infine, does not a Life that in effect is very un<g ref="char:EOLhyphen"/>profitable, paſs in my fancy for a Life very innocent?</p>
+                        </div>
+                        <div type="subsection">
+                           <pb n="67" facs="tcp:109699:38"/>
+                           <head>The Exerciſe of the Will.</head>
+                           <p>The motions that naturally a<g ref="char:EOLhyphen"/>riſe from this reflection, are, Firſt, of Wonder; conſidering the patience of Almighty God, who has expected and born with me, not only for three Years, as the Maſter of the Fig-Tree had done, thô I have been ſo far from bear<g ref="char:EOLhyphen"/>ing any good fruit, that I have always born very ill; but has ſuf<g ref="char:EOLhyphen"/>fer'd me for ſo many Years to go on in that ill courſe of Life. Se<g ref="char:EOLhyphen"/>condly, of Confuſion and Sorrow; for having made ſo little uſe and benefit of all that care his Divine mercy has taken to Cultivate and Improve me by all ways and means imaginable; but have ſo long abus'd his wonderful Patience that bore with me all this while. Thirdly, of Fear; leaſt God to puniſh me for not correſponding with his Grace, and making pro<g ref="char:EOLhyphen"/>fit of it, ſhould at laſt quite de<g ref="char:EOLhyphen"/>prive me of it, and pronounce that terrible Sentence againſt me;
+<pb n="68" facs="tcp:109699:39"/>
+                              <hi>Cut him down, why ſhould he take up ſo much good ground to no purpoſe, cut down that unfruitful Tree and throw it into the Fire.</hi> Fourthly, of a Firm Reſolution; addreſſing my ſelf to my good Angel to beg his aſſiſtance to be more faithful hereafter, and make better profit of the care he ſhall pleaſe to take of me, and correſpond with thoſe Graces he ſhall obtain for me: Beſeeching him to intercede for me like that Charitable Keeper of the Vineyard, mention'd in the Goſpel, and affiſt and help me to bring forth the fruits of good Works, and Vertues proper to my Condition.</p>
+                        </div>
+                     </div>
+                     <div n="6" type="section">
+                        <head>§. 6. <hi>The Application of the ſame Method, to one of our Bleſſed Saviors Actions.</hi>
+                        </head>
+                        <div type="subsection">
+                           <head>Jeſus Chriſt Waſhes the Feet of the Apoſtles.</head>
+                           <p>Conſider how our Bleſſed Savior who, as Man, was King of Heaven
+<pb n="69" facs="tcp:109699:39"/>
+and Earth, and, as God was the Creator and Lord of all, laying aſide, and as it were, forgetting his Majeſty, was pleas'd to humble himſelf to that degree, and to deſ<g ref="char:EOLhyphen"/>cend ſo low as to waſh with his Sacred and Divine Hands, the Feet of Twelve poor Fiſher-Men; and withal conſider well all the circum<g ref="char:EOLhyphen"/>ſtances of ſo humble an Action; how he Girt his Sacred Body with a Napkin; fill'd the Baſon with Water, and then kneeling down, Waſh't the Feet of all the Apoſtles, nay, even of <hi>Judas</hi> himſelf.</p>
+                        </div>
+                        <div type="subsection">
+                           <head>The Exerciſe of the Underſtanding, or the Reflection upon this Action of our Bleſſed Savior.</head>
+                           <p>What could be the deſign of God in humbling himſelf after ſo ſtrange a manner? He was pleas'd to declare it himſelf in theſe words; You ſee what I have done, and to what degree, I, who am the Son of the Living God, have humbl'd my ſelf; and if this Action does ſurpriſe you, becauſe you do not yet com<g ref="char:EOLhyphen"/>prehend
+<pb n="70" facs="tcp:109699:40"/>
+the Myſtery of it; that you may not be ignorant of my intention. I declare 'tis to ſerve you for an example, and to ſhew you, that if I, who am your Lord and Maſter, have thus humbl'd my ſelf, you that are but poor Fiſher-Men ought much more to humble your ſelves, by ſeeking and embraceing thoſe employments that are e<g ref="char:EOLhyphen"/>ſteem'd the meaneſt, and exer<g ref="char:EOLhyphen"/>ciſing your ſelves in the loweſt and moſt humble ſort of Actions: This is the great Leſſon I would have you learn of me, 'tis that which I have always Prech't to you, and that I have now taught you by my example.</p>
+                        </div>
+                        <div type="subsection">
+                           <head>The Application of this Reflection, or the return and looking back upon our ſelves.</head>
+                           <p>Have I hitherto practis'd this great Leſſon? Having the honor to be a Chriſtian, and conſequent<g ref="char:EOLhyphen"/>ly a Diſciple of <hi>Jeſus Chriſt,</hi> I was bound to follow his Example, and
+<pb n="71" facs="tcp:109699:40"/>
+to obſerve his Maxims; eſpecially, thoſe Maxims, in the practiſe of which he took moſt delight, and moſt expreſly propos'd to me to obſerve; have I till now obſerv'd 'em? That paſſion I have for hon<g ref="char:EOLhyphen"/>or and eſteem of the World, for all that is or ſeems to me great or glorious, and ſerves to entertain and feed my pride and vanity; that horror I have againſt all hu<g ref="char:EOLhyphen"/>miliations, againſt being ſcorn'd, or undervalu'd; all this evident<g ref="char:EOLhyphen"/>ly ſhews, how far I am from imi<g ref="char:EOLhyphen"/>tating the humility of my Bleſled Savior.</p>
+                        </div>
+                        <div type="subsection">
+                           <head>The Exerciſe of the Will.</head>
+                           <p>The motions which follow this reflection, are, Firſt, of Wonder; to ſee humility the favourite Ver<g ref="char:EOLhyphen"/>tue, moſt recommended by <hi>Jeſus Chriſt,</hi> moſt becoming his true Diſciple, and the moſt Eſſential to Chriſtianity, ſhould yet be that which is leaſt practis'd by <hi>Chriſti<g ref="char:EOLhyphen"/>ans.</hi> We ſee many Men that are merciful, patient, and of a very
+<pb n="72" facs="tcp:109699:41"/>
+auſtere Life; but where ſhall we find any that are truly humble? Secondly, of great Confuſion and Grief; to find that I have let my ſelf be carry'd by that torrent of vanity, which ſways moſt part of the World; whereby I have in a manner renounc't <hi>Jeſus Chriſt's</hi> Maxims, and holy example, to live according to the fooliſh hu<g ref="char:EOLhyphen"/>mor of the World, which con<g ref="char:EOLhyphen"/>ſiſts chiefly in the love of great<g ref="char:EOLhyphen"/>neſs and honor. Thirdly, of Fear; leſt if I make not better uſe of theſe Leſſons and Examples of humility, that Chriſt has giv'n me; they will one day ſerve for my Condemnation. Fourthly, of a Firm Reſolution to labor more ſeriouſly hereafter, to ac<g ref="char:EOLhyphen"/>quire a Vertue ſo neceſſary as humility is; beſeeching our bleſſed Savior to aſſiſt and inſtruct me in it; ſince 'tis only he, that can direct and aſſiſt me, in this moſt weighty matter.</p>
+                        </div>
+                     </div>
+                     <div n="7" type="section">
+                        <pb n="73" facs="tcp:109699:41"/>
+                        <head>§. 7. The Application of the ſame Method to one of the Divine Perfections. The Immenſity of God.</head>
+                        <div type="subsection">
+                           <head>The Exerciſe of the Memory.</head>
+                           <p>Remember what Faith teaches us, concerning the immenſity of God, which renders him preſent in all places, at all times, in all things; are in him, and he in all things; you are in him, and he in you, and he is more intimately preſent in your Soul than your Soul can be to your Body; endeavor therefore to taſt and penetrate the ſenſe of theſe words, <hi>God in me,</hi> and <hi>I in God.</hi>
+                           </p>
+                        </div>
+                        <div type="subsection">
+                           <head>The Exerciſe of the Understanding, or Reflection upon this Perfecti<g ref="char:EOLhyphen"/>on of God.</head>
+                           <p>If God is preſent in all places; if he be in me, it follows from
+<pb n="74" facs="tcp:109699:42"/>
+thence. Firſt, that I muſt always remember that I am in his Pre<g ref="char:EOLhyphen"/>ſence. Secondly, that I ought to comport my ſelf always with great reſpect towards his Infinite Majeſty. Thirdly, that I ought to be afraid of nothing ſo much as to offend him; or to do any thing, that may in the leaſt be diſ<g ref="char:EOLhyphen"/>pleaſing in his Eyes, that are ſo pure, as they cannot endure the leaſt ſpot, and do continually behold me. <hi>Mundi ſunt oculi tui &amp; ad iniquitatem reſpicere non poterunt.</hi>
+                           </p>
+                        </div>
+                        <div type="subsection">
+                           <head>The Application of this Reflection, or the looking back upon our ſelves.</head>
+                           <p>Have I been hitherto well con<g ref="char:EOLhyphen"/>vinc't or have I reflected as I ought upon this great truth? Or if I have done ſo; how was it poſ<g ref="char:EOLhyphen"/>ſible that I ſhould think ſo little of Almighty God, or that I ſhould comport my ſelf with ſo little re<g ref="char:EOLhyphen"/>ſpect before that Infinite Majeſty? In whoſe Preſence the Seraphims fall down, and cover their Faces,
+<pb n="75" facs="tcp:109699:42"/>
+out of reſpect? How then is it poſ<g ref="char:EOLhyphen"/>ſible I ſhould have the Inſolence to provoke him ſo often, and offend his Eyes, ſo pure and holy, by my impurities.</p>
+                        </div>
+                        <div type="subsection">
+                           <head>The Exerciſe of the Will.</head>
+                           <p>The motions that follow theſe reflections, are, Firſt, of Admi<g ref="char:EOLhyphen"/>ration; conſidering the great pa<g ref="char:EOLhyphen"/>tience of Almighty God, in whoſe Preſence I have ſo often, and ſo inſolently committed moſt griev<g ref="char:EOLhyphen"/>ous crimes; who thô moſt highly provoked by me, has ſtill had pa<g ref="char:EOLhyphen"/>tience with me, and forborn to puniſh me, as he might eaſily have done. Secondly, of Grief and Confuſion; for having been ſo forgetful of God, and his Divine Preſence, and not reflecting that he look't upon me whilſt I offend<g ref="char:EOLhyphen"/>ed him; but ſo abus'd his Divine goodneſs and patience, as to make 'em ſerve me for an encourage<g ref="char:EOLhyphen"/>ment to offend him the more bold<g ref="char:EOLhyphen"/>ly. Thirdly, of Fear; leſt his patience being thus abus'd and
+<pb n="76" facs="tcp:109699:43"/>
+tyr'd out, ſhould turn at laſt to fury, and puniſh me with ſo much the greater rigour; for having ſo long in vain defer'd and reſtrain'd his Iuſtice from puniſhing me. Fourthly, of a Firm Reſolution, to have more reſpect for the fu<g ref="char:EOLhyphen"/>ture, for his All-ſeeing Eye, which continually watches over me; ſo as never to offend him wilfully: And ſince I can commit no fault, but in his Preſence, to avoid all ſin, as much as human frailty will permit, and never wilfully and de<g ref="char:EOLhyphen"/>liberately offend him.</p>
+                        </div>
+                     </div>
+                  </div>
+                  <div type="part">
+                     <head>Certain Rules which may ſerve to help Scrupulous Perſons in their Conduct.</head>
+                     <p>BY reaſon that many perſons are render'd uncapable of Praying by certain Scrup<g ref="char:EOLhyphen"/>les, and that others are often by ſuch Scruples depriv'd in a great meaſure of that benefit
+<pb n="77" facs="tcp:109699:43"/>
+and comfort which they ſhould otherwiſe reap by their Prayer; I think it very neceſſary for the aſ<g ref="char:EOLhyphen"/>ſiſting of theſe Devout Souls that find themſelves ſo croſt and hin<g ref="char:EOLhyphen"/>der'd in the way of Perfection, to ſet down ſome Rules that may be of uſe to them, to extricate them<g ref="char:EOLhyphen"/>ſelves from thoſe Scruples, and to comfort and eaſe 'em from thoſe troubles. Neither will it be im<g ref="char:EOLhyphen"/>pertinent to my ſubject, and to what I have treated of; ſince it may ſerve to remove thoſe obſtacles which the Devil often makes uſe of to divert and diſwade us from our Prayer.</p>
+                     <div n="1" type="rule">
+                        <head>The Firſt Rule.</head>
+                        <p>Firſt, 'tis neceſſary to make choice of a Director that is both able and experienc't, and one that is not himſelf too ſevere and Scru<g ref="char:EOLhyphen"/>pulous.</p>
+                     </div>
+                     <div n="2" type="rule">
+                        <pb n="78" facs="tcp:109699:44"/>
+                        <head>The Second Rule.</head>
+                        <p>Having made ſuch a choice, you muſt obſerve and follow his Coun<g ref="char:EOLhyphen"/>ſel; perſwading and fully convince<g ref="char:EOLhyphen"/>ing your ſelf, that you cannot of<g ref="char:EOLhyphen"/>fend God in doing what he ad<g ref="char:EOLhyphen"/>viſes; for if there be any fault, the blame will fall upon him that gives the advice, and not upon you that follow it.</p>
+                     </div>
+                     <div n="3" type="rule">
+                        <head>The Third Rule.</head>
+                        <p>Thô it be true in General, that we cannot act, when we doubt, whether what we are going to do, be a ſin; yet it cannot be a certain Rule for thoſe that are Scrupulous, to conclude they have offended God, becauſe many times, the trouble and great ſolicitude they were in, by reaſon of their Scrup<g ref="char:EOLhyphen"/>les, left 'em not ſufficient free<g ref="char:EOLhyphen"/>dom to determine themſelves, and to chooſe which ſide to take.</p>
+                     </div>
+                     <div n="4" type="rule">
+                        <pb n="79" facs="tcp:109699:44"/>
+                        <head>The Fourth Rule.</head>
+                        <p>Generally ſpeaking, all Scrupu<g ref="char:EOLhyphen"/>lous perſons in doubt, whether they have ſinn'd or no, are bound to judge favorably, and to hope the beſt; eſpecially, when they are Devout perſons, that fear God, and live regularly.</p>
+                     </div>
+                     <div n="5" type="rule">
+                        <head>The Fifth Rule.</head>
+                        <p>In the opinion of moſt able Di<g ref="char:EOLhyphen"/>vines, ſuch perſons as are very Scrupulous, are not bound to Confeſs imaginary ſins, that put 'em in pain; unleſs they can with a ſafe Conſcience ſwear theſe three things. Firſt, that they have com<g ref="char:EOLhyphen"/>mitted the ſin. Secondly, that they have never Confeſt it. Third<g ref="char:EOLhyphen"/>ly, that 'tis Mortal.</p>
+                     </div>
+                     <div n="6" type="rule">
+                        <head>The Sixth Rule.</head>
+                        <p>Scrupulous perſons need not trouble themſelves to make gene<g ref="char:EOLhyphen"/>ral
+<pb n="80" facs="tcp:109699:45"/>
+Confeſſions, which moſt com<g ref="char:EOLhyphen"/>monly ſerve only to embroyle 'em the more, and furniſh new mat<g ref="char:EOLhyphen"/>ter of Scruples.</p>
+                     </div>
+                     <div n="7" type="rule">
+                        <head>The Seventh Rule.</head>
+                        <p>They muſt underſtand, that 'tis not in their power to diſcover, or know for certain, whether they have made a perfect good Act of Contrition; and that the uncer<g ref="char:EOLhyphen"/>tainty they are in, as to that point, is no good reaſon or ground to make 'em repeat and begin their Confeſſion a new; but 'tis an effect of their Scruple, and many times of ſelf love, ſecret pride, and little Confidence in Gods mercy, to demand and expect a certainty, which God is not pleas'd to allow we ſhould have; let us but do on our part, what depends upon us, and we may be certain that God will do on his part all that depends up<g ref="char:EOLhyphen"/>on him.</p>
+                     </div>
+                     <div n="8" type="rule">
+                        <pb n="81" facs="tcp:109699:45"/>
+                        <head>The Eighth Rule.</head>
+                        <p>Since the relapſe into ſin; makes thoſe Scrupulous Souls very unquiet and reſtleſs; they muſt endeavor to pacifie their minds by theſe reflections. Firſt, that our Confeſſions, thô never ſo good, do not render us impeccable. Secondly, that when we ſay, that the relapſe ought to render our repentance ſuſpected; that muſt be underſtood to be meant of fre<g ref="char:EOLhyphen"/>quent relapſes; and of relapſes in<g ref="char:EOLhyphen"/>to Mortal ſin; and if it can be extended to Venial ſins, 'tis only to ſuch ſins as are wilfully com<g ref="char:EOLhyphen"/>mitted, and with deliberation; and not to ſins of frailty and ſur<g ref="char:EOLhyphen"/>priſe. Thirdly, that althô wit<g ref="char:EOLhyphen"/>tingly we fall ſometimes into the ſame ſin, yet that does not argue, but that we had a ſincere reſolu<g ref="char:EOLhyphen"/>tion to avoid it, when we Con<g ref="char:EOLhyphen"/>feſt it laſt, provided we do not fall into it ſo often, nor ſo deli<g ref="char:EOLhyphen"/>berately; and that we reſolve to Confeſs it as ſoon as we can, and
+<pb n="82" facs="tcp:109699:46"/>
+never offend God any more in that kind. Fourthly, that a Man may have a ſincere efficacious Will ne<g ref="char:EOLhyphen"/>ver to fall into ſuch a ſin any more, thô he perceive at the ſame time, that 'tis likely he may fall into it again; which happens often to the moſt perfect; ſo that we muſt di<g ref="char:EOLhyphen"/>ſtinguiſh well, the Will to ſin, from the doubt we have, that we may fall again; for the firſt is in<g ref="char:EOLhyphen"/>conſiſtent with true repentance, and the ſecond, may well conſiſt with it.</p>
+                     </div>
+                     <div n="9" type="rule">
+                        <head>The Ninth Rule.</head>
+                        <p>When Scrupulous perſons go to Confeſſion, they muſt employ no longer time in Examining of their Conſcience, than what their Di<g ref="char:EOLhyphen"/>rector adviſes 'em, who ought al<g ref="char:EOLhyphen"/>ways to regulate that: And they muſt apply themſelves, more to make good and firm reſolutions for the future, than to make too long Examins.</p>
+                     </div>
+                     <div n="10" type="rule">
+                        <pb n="83" facs="tcp:109699:46"/>
+                        <head>The Tenth Rule.</head>
+                        <p>All that is in our mind, imagi<g ref="char:EOLhyphen"/>nation, ſenſes, or in our bodies, thô never ſo impure, cannot of it ſelf ſtain our Soul; 'tis only that which is receiv'd into our heart that can infect the Soul; ſo that there can be no ſin unleſs our Will is pleas'd, and conſents to the thought or act, and that our mind reflects upon it; and beſides, the matter muſt be of ſome weight, to make it a Mortal ſin.</p>
+                     </div>
+                     <div n="11" type="rule">
+                        <head>The Eleventh Rule.</head>
+                        <p>The firſt motions, thô ill, and diſorderly in themſelves, are not criminal; unleſs they are follow'd by reflection, and that we take delight in 'em, or at leaſt neglect to reſiſt and repel 'em, and this bare neglect very ſeldome amounts to a Mortal ſin.</p>
+                     </div>
+                     <div n="12" type="rule">
+                        <pb n="84" facs="tcp:109699:47"/>
+                        <head>The Twelfth Rule.</head>
+                        <p>We muſt carefully diſtinguiſh between the thinking of, and the conſenting to a ſin, and we muſt obſerve that the firſt thô very bad, may chance not to be attended with the ſecond; for the conſent renders us guilty, but the thought may ſerve often to exerciſe and improve our vertue; and by giv<g ref="char:EOLhyphen"/>ing us an occaſion and obligation of combat, may afford us matter of Merit and Victory.</p>
+                     </div>
+                     <div n="13" type="rule">
+                        <head>The Thirteenth Rule.</head>
+                        <p>The perſon that lives regularly, and in the fear of God, thô aſ<g ref="char:EOLhyphen"/>ſaulted by never ſo filthy and im<g ref="char:EOLhyphen"/>pious thoughts, yet gives no occaſion to 'em, and never per<g ref="char:EOLhyphen"/>mits 'em to prevail ſo far as to cauſe any ill action, ought to judge the beſt, and reſt ſatisfi'd, that there was no conſent giv'n to ſuch thoughts. 'Tis the Rule that Saint <hi>Gregory</hi>
+                           <pb n="85" facs="tcp:109699:47"/>
+gives, <hi>Ita plerumque mali inutiliter compunguntur ad juſtitiam, ſicut plerumque boni innoxiè tentantur ad culpam;</hi> as good thoughts which diſorderly perſons, and ill livers ſometimes have, when they are not accompany'd with conſent, execution, or fruit; cannot ſerve to juſtifie ſuch ill livers; ſo bad thoughts which vertu<g ref="char:EOLhyphen"/>ous perſons are Tempted with, be they never ſo violently prompted and mov'd to ſin; yet we muſt judge that they do not ſin by 'em, when thoſe motions have no effect, and when we ſee they are never over ſway'd and carry'd by 'em to any ill Action.</p>
+                     </div>
+                     <div n="14" type="rule">
+                        <head>The Fourteenth Rule.</head>
+                        <p>Scrupulous perſons muſt never dwell long in making reflections upon any ill thóughts they have had, upon account of examining, whether they have not taken ſome
+<pb n="86" facs="tcp:109699:48"/>
+criminal delight in 'em; for that can ſerve only to embroyle 'em, and make a deeper impreſſion of thoſe objects in their fancies, and conſequently create new matter of Scruples.</p>
+                     </div>
+                     <div n="15" type="rule">
+                        <head>The Fifteenth Rule.</head>
+                        <p>Scrupulous perſons ought not to ſet upon Reading ſuch Books, as treat of terrible and frightful ſubjects; ſuch as are, thoſe which treat of the great rigour of Gods judgments, of the conditions neceſſary for Confeſ<g ref="char:EOLhyphen"/>ſion, of the qualities and nature of Contrition, and of the incerti<g ref="char:EOLhyphen"/>tude of it; nor Read thoſe Au<g ref="char:EOLhyphen"/>thors that rack all caſes and cir<g ref="char:EOLhyphen"/>cumſtances to an extremity, in points of Morality; but on the contrary, they ought to Read thoſe Books that treat of the Love of God, his great Mercy, the Ver<g ref="char:EOLhyphen"/>tue of the Infinite Merits and Sa<g ref="char:EOLhyphen"/>tisfaction of <hi>Jeſus Chriſt,</hi> and ſuch other Books, as are moſt proper
+<pb n="87" facs="tcp:109699:48"/>
+to infuſe into their Souls a great confidence in Almighty God: Such as are all the works of Saint <hi>Francis Sales.</hi>
+                        </p>
+                     </div>
+                     <div n="16" type="rule">
+                        <head>The Sixteenth Rule.</head>
+                        <p>To enable a good Director; to aſſiſt well, and cure Scrupulous minds under his care, 'tis neceſla<g ref="char:EOLhyphen"/>ry he ſhould be made acquainted, with the firſt riſe of thoſe Scruples; for he ought to apply different remedies, proportionable to the different cauſes, and ſources of Scruples; if Scruples are ſent by Almighty God, for tryal of certain Souls, which are naturally high minded, and ſubject to pride, and for rendring 'em more hum<g ref="char:EOLhyphen"/>ble; they muſt humble themſelves under the powerful hand of God, and abandon themſelves wholly to his Divine Conduct: If Scruples proceed from ſelf love, which cauſe our thoughts to be wholly taken up with our own concerns; the beſt remedy is to
+<pb n="88" facs="tcp:109699:49"/>
+think much and often of Almighty God, and to think as little as we can of our ſelves; and caſt off frivolous reflections that ſtill only regard our ſelves: If Scruples come from idleneſs, as ſometimes it happens they do, thoſe perſons muſt undertake and embrace ſome good employment, ſuch as may leave 'em no leiſure, to think of their Scruples: If Scruples pro<g ref="char:EOLhyphen"/>ceed from a natural fearfulneſs, or from a tenderneſs of Conſcience, there muſt be great care taken to inſtruct well, and encourage thoſe fearful poor Souls: Infine, if they proceed from a Malancholly hu<g ref="char:EOLhyphen"/>mor, or from a weak brain, there can be no other remedy in thoſe caſes, but to induce 'em to Docility, Obedience, and Reſignation; for elſe thoſe perſons will tire out a poor Director, and make him looſe all his time.</p>
+                        <p>As to the reſt, we muſt obſerve two things. Firſt, that it be<g ref="char:EOLhyphen"/>longs not to thoſe that are Scru<g ref="char:EOLhyphen"/>pulous, to judge whether they are ſo, or not; for they themſelves are
+<pb n="89" facs="tcp:109699:49"/>
+not capable of that; but ought to rely upon the judgment of their Director. Secondly, that theſe Rules concern only ſuch as are truly and really Scrupulous; and not ſuch, as being perſecuted by the remorſe of their own Conſci<g ref="char:EOLhyphen"/>ences, would have that paſs for Scruple, which in it ſelf, is a well grounded and very juſt fear, with<g ref="char:EOLhyphen"/>out conſulting any but their own paſſions: Nor for thoſe extrava<g ref="char:EOLhyphen"/>gant Scrupulous perſons, who make Monſters of trifles, whilſt in the mean time they neglect the performance of their moſt Eſſen<g ref="char:EOLhyphen"/>tial duties; like the <hi>Phariſees</hi> of whom our Savior ſays, <hi>That they pay'd most exactly the Tythe of their Mint, their Aniſeed and Cummin; and in the mean time neglected what was of greatest moment and weight in the Law of God; as Justice, Mercy, and Faith; that they took great care to strain what ever they drank, for fear of ſwallowing a fly; and yet made no difficulty or Scruple of ſwallowing a Camel.</hi>
+                        </p>
+                     </div>
+                  </div>
+                  <div type="part">
+                     <pb n="90" facs="tcp:109699:50"/>
+                     <head>Several Motives which may be of great uſe and help to Scru<g ref="char:EOLhyphen"/>pulous perſons, in order to animate and increaſe their confidence in God, and to ap<g ref="char:EOLhyphen"/>peaſe all their anxiety and troubles.</head>
+                     <p>THe great misfortune of Scru<g ref="char:EOLhyphen"/>pulous perſons, and the chief ſource of all their pain, is the want of having a true Idea of Almighty God, thrô the fear they are in: They repreſent him to themſelves, as a revengeful God, always angry; that never lays down his Thunderbolt, but is always ready to deſtroy all ſuch as offend him; and as a ſevere judge, that examins all with the greateſt rigour imaginable; in order to find out matters ſufficient to condemn and puniſh the ſinner; as a jealous Tyrant that miſtruſts every body,
+<pb n="91" facs="tcp:109699:50"/>
+and reſolves to ſecure himſelf, by the ruin of thoſe he ſuſpects; as a crafty Enemy that is always em<g ref="char:EOLhyphen"/>ploy'd in laying ſnares to entrap thoſe he hates. This is the Idea that Scrupulous perſons frame in their fancies of Almighty God; and is it not as falſe, as 'tis un<g ref="char:EOLhyphen"/>juſt? Injurious to God, and moſt pernicious to Man? Whereas on the contrary, thoſe Scrupulous Souls ought to look upon God as a Maſter, full of all goodneſs, and mildneſs; <hi>Sentite de Domino in bonitate;</hi> he is not only a Fa<g ref="char:EOLhyphen"/>ther, full of tenderneſs, that loves all Man-kind as his Children; <hi>Quomodo miſeretur Pater Filiorum, miſertus est Dominus timentibus ſe;</hi> and therefore he is call'd the Father of Mercies; <hi>Pater miſeri<g ref="char:EOLhyphen"/>cordiarum;</hi> infine, he is well ac<g ref="char:EOLhyphen"/>quainted with our weakneſs and miſeries; and has great compaſſion of us; <hi>Ipſe cognovit figmentum no<g ref="char:EOLhyphen"/>strum, recordatus eſt quia pulvis ſumus.</hi>
+                     </p>
+                     <pb n="92" facs="tcp:109699:51"/>
+                     <p>After he had drown'd the whole World, with the Men that then Inhabited it, he was not long without reſuming that tender care of Man, which is natural to his Divine Goodneſs. <hi>I will revenge my ſelf no more,</hi> ſays he, <hi>in ſo terrible a manner, for the heart of Man is very weak, and is carry'd away, and prone to evil, by a moſt violent inclination;</hi> ſo that his faults ought to be conſider'd in ſome manner as more pardon<g ref="char:EOLhyphen"/>able; <hi>Senſus enim &amp; cogitatio hu<g ref="char:EOLhyphen"/>mani cordis in malum prona ſant.</hi>
+                     </p>
+                     <p>Beſides, we muſt conſider and look upon Almighty God, as our Creator; and infer from thence a great motive of confidence; for he hates nothing of his own work; <hi>Nihil odiſti corum qu<gap reason="illegible" resp="#UOM" extent="2 letters">
+                              <desc>••</desc>
+                           </gap> feciſti,</hi> he loves the ſinner as his Creature, thô at the ſame time he abhors the ſin; and is ſo far from wiſhing his Death, that he tries all ways to win him; to convert, and ſave him; <hi>Nolo mortem peccatoris, ſed ut magis converiatur &amp; vivat.</hi>
+                     </p>
+                     <pb n="93" facs="tcp:109699:51"/>
+                     <p>Infine, all the Holy Scripture is full of ſuch thoughts, as ſerve to inſpire into our Souls, the Love of Almighty God, and confirm our hope in him; if we fall, Lord, ſays the Prophet, you ſtretch out your All-Powerful hand to take us up; <hi>Operi manuum tuarum por<g ref="char:EOLhyphen"/>riges dexteram;</hi> the mercies of the Lord, adds the Prophet <hi>David,</hi> ſurpaſs his Iuſtice, and are above all his other works; <hi>Miſericordia ſupercxaltat Judicium, miſerationes ejus ſuper omnia opera ejus;</hi> inſo<g ref="char:EOLhyphen"/>much, that in the very heat of his anger, God ſtill remembers his mercy; <hi>Cum Iratus fueris miſericor<g ref="char:EOLhyphen"/>diae recordaberis;</hi> and the more mi<g ref="char:EOLhyphen"/>ſerable we are, the more he is ſtill inclin'd to have compaſſion of us.</p>
+                     <p>But above all, the fearful and Scrupulous Souls, muſt often Me<g ref="char:EOLhyphen"/>ditate and reflect upon thoſe words of our Bleſſed Savior; that he is not come into the World, for the juſt, but for ſinners; that 'tis not thoſe that are well, but the ſick that have need of the Phy<g ref="char:EOLhyphen"/>ſician;
+<pb n="94" facs="tcp:109699:52"/>
+that he is not come upon Earth to judge, and deſtroy poor ſinners, but to gain and to ſave 'em.</p>
+                     <p>The Parable of the good Shep<g ref="char:EOLhyphen"/>herd is very proper to comfort and aſſure us, againſt the too great fear and apprehenſion of Gods judgments; if we do but well con<g ref="char:EOLhyphen"/>ſider it, with all its circumſtances: The great longing deſire of the Shepherd to find out his poor ſtray'd Sheep; how he could not be dſſwaded, nor put off, neither by the length, nor fatigue of the journy in looking after her, nor by the infidelity, ingratitude, and wilfulneſs of that unhappy Sheep; the mildneſs and tenderneſs he ſhews towards her when he had found her; his goodneſs in carry<g ref="char:EOLhyphen"/>ing her back to the fold upon his Shoulders; the great joy he ſhew'd, for having recover'd her, inviting all the World to rejoyce with him; <hi>Ita gandium erit ſuper uno peccatore poenitentiam agente.</hi> If Almighty God in this manner runs after a poor ſinner, that flys
+<pb n="95" facs="tcp:109699:52"/>
+from him, and by his reſiſtance renders himſelf unworthy of his care, and mercy, will he caſt off, and refuſe a poor soul, that by the pain and trouble 'tis in, ſhews, that it fears nothing in the World ſo much, as the offending of ſo Di<g ref="char:EOLhyphen"/>vine and good a Maſter, and thereby the withdrawing himſelf from his Fatherly conduct and protection?</p>
+                     <p>But what ought more than any thing, to hearten and comfort Scrupulous Souls, is the price of the Blood of our Bleſſed Savior, the infinite Vertue of his Merits, and his ſuperabundant Satisfacti<g ref="char:EOLhyphen"/>on; which infinitely ſurpaſs all our ſins; becauſe they are infinite, which our ſins are not, thô they be never ſo great and enormous; the leaſt drop of that Sacred Blood, being ſufficient to ſatisfie for all the ſins of a Million of Worlds, thô fill'd with Men as wicked as the Devils are; and yet he was pleas'd to ſhed whole Torrents of that Sacred Blood for us; what ground of comfort and hope is this to a poor Soul?</p>
+                     <p>
+                        <pb n="96" facs="tcp:109699:53"/>
+Let us then always remember theſe three things. Firſt, that the Satisfaction made by our Bleſled Savior is of infinite value. Second<g ref="char:EOLhyphen"/>ly, that it belongs to us; becauſe he is our Head, and we are his Members; that he has transfer'd, and made over all that Satisfacti<g ref="char:EOLhyphen"/>on to us, having no need of it for himſelf; and that the Eternal Father, has accepted of his Sons transfering it. Thirdly, that it depends upon, and is left in our Power, to apply that Divine Sa<g ref="char:EOLhyphen"/>tisfaction to our ſelves; and that the beſt, ſureſt, and eaſieſt way to do this, is to repoſe a great con<g ref="char:EOLhyphen"/>fidence in the Infinite Mercy, and Goodneſs of God.</p>
+                  </div>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </body>
+            <back>
+               <div type="index">
+                  <pb facs="tcp:109699:53"/>
+                  <head>A TABLE OF THE Chapters and Sections.</head>
+                  <list>
+                     <head>CHAP. I.</head>
+                     <item>
+                        <hi>OF the neceſſity of Meditation.</hi> page 1.</item>
+                     <item>
+                        <hi>The Firſt Reaſon.</hi> page 4.</item>
+                     <item>
+                        <hi>The Second Reaſon.</hi> page 7.</item>
+                     <item>
+                        <hi>The Third Reaſon.</hi> page 9.</item>
+                     <item>
+                        <hi>The Fourth Reaſon.</hi> page 11.</item>
+                     <item>
+                        <hi>The Fifth Reaſon.</hi> page 13.</item>
+                     <item>
+                        <hi>The Sixth Reaſon.</hi> page 16.</item>
+                  </list>
+                  <list>
+                     <pb facs="tcp:109699:54"/>
+                     <head>CHAP. II.</head>
+                     <item>
+                        <hi>OF the Pretences that many Men make uſe of to excuſe themſelves from taking the pains to Meditate.</hi> page 19.</item>
+                     <item>
+                        <hi>The First Pretence.</hi> page 20.</item>
+                     <item>
+                        <hi>The Second Pretence.</hi> page 23.</item>
+                     <item>
+                        <hi>The Third Pretence.</hi> page 25.</item>
+                     <item>
+                        <hi>The Fourth Pretence.</hi> page 28.</item>
+                     <item>
+                        <hi>The Fifth Pretence.</hi> page 31.</item>
+                     <item>
+                        <hi>The Sixth Pretence.</hi> page 36.</item>
+                  </list>
+                  <list>
+                     <head>CHAP. III.</head>
+                     <item>
+                        <hi>OF the Facility of Meditation.</hi> page 40.</item>
+                     <item>
+                        <hi>§. 1. Shewing how eaſie 'tis for any Man to Meditate, or make Men<g ref="char:EOLhyphen"/>tal Prayer.</hi> Ibid.</item>
+                     <item>
+                        <hi>§. 2. Shewing farther and more par<g ref="char:EOLhyphen"/>ticularly, how eaſie 'tis to Meditate, by explicating the Method, that is to be obſerv'd in Meditation.</hi> page 43.</item>
+                  </list>
+                  <list>
+                     <pb facs="tcp:109699:54"/>
+                     <head>CHAP. IV.</head>
+                     <item>
+                        <hi>SHews how to Practiſe Mental Prayer.</hi> page 47.</item>
+                     <item>
+                        <hi>§. 1. The Application of the Method, we have already explicated, to ſome Historical paſſage in Holy Scripture; as for example, to that of the fall of the Angels.</hi> page 48.</item>
+                     <item>
+                        <hi>§. 2. Application of the ſame Me<g ref="char:EOLhyphen"/>thod to a Moral Christian Verity.</hi> page 52.</item>
+                     <item>
+                        <hi>The Incertitude of a ſudden and un<g ref="char:EOLhyphen"/>expected Death.</hi> Ibid.</item>
+                     <item>
+                        <hi>§. 3. The Application of the ſame Method to one of the Myſteries of our bleſſed Saviors Life.</hi> page 56.</item>
+                     <item>
+                        <hi>The Nativity of our Bleſſed Savior.</hi> Ibid.</item>
+                     <item>
+                        <hi>§. 4. Application of the ſame Me<g ref="char:EOLhyphen"/>thod to a Maxim of the Goſpel.</hi> page 60.</item>
+                     <item>
+                        <hi>If any Man will come after me, let him deny himſelf, and take up his Croſs and follow me.</hi> Ibid.</item>
+                     <item>
+                        <hi>
+                           <pb facs="tcp:109699:55"/>
+§. 5. The Application of the ſame Method to a Parable in the Goſpel.</hi> page 64.</item>
+                     <item>
+                        <hi>Of the Barren Fig-Tree.</hi> Ibid.</item>
+                     <item>
+                        <hi>§. 6. The Application of the ſame Method, to one of our Bleſſed Sa<g ref="char:EOLhyphen"/>viors Actions.</hi> page 68.</item>
+                     <item>
+                        <hi>Jeſus Christ Waſhes the Feet of the Apostles.</hi> Ibid.</item>
+                     <item>
+                        <hi>§. 7. The Application of the ſame Method to one of the Divine Per<g ref="char:EOLhyphen"/>fections.</hi> page 73.</item>
+                     <item>
+                        <hi>The Immenſity of God.</hi> Ibid.</item>
+                     <item>
+                        <hi>Certain Rules which may ſerve to help Scrupulous Perſons in their Conduct.</hi> page 76.</item>
+                     <item>
+                        <hi>Several Motives which may be of great uſe and help to Scrupulous perſons, in order to animate and increaſe their confidence in God, and to appeaſe all their anxieties and troubles.</hi> page 90.</item>
+                  </list>
+               </div>
+            </back>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:109699:55"/>
+                  <p>A METHOD HOW TO Offer up Mass, ACCORDING To the Four Ends of this SACRIFICE.</p>
+                  <figure>
+                     <figDesc>printer's or publisher's device</figDesc>
+                     <head>IHS</head>
+                  </figure>
+                  <p>
+                     <hi>London,</hi> Printed by <hi>T. H.</hi> 1694.</p>
+               </div>
+            </front>
+            <body>
+               <div type="text">
+                  <pb facs="tcp:109699:56"/>
+                  <pb n="1" facs="tcp:109699:56"/>
+                  <head>A METHOD HOW TO Offer up Mass, accor<g ref="char:EOLhyphen"/>ding to the Four Ends of this Sacrifice.</head>
+                  <div n="1" type="part">
+                     <head>The Firſt End. <hi>To Render Homage to God.</hi>
+                     </head>
+                     <p n="1">1. WE muſt firſt make an Act of Faith, whereby we acknowledge the Sove<g ref="char:EOLhyphen"/>raignty of God, who is the beginning, and end of our being, and therefore has all right and power, to diſpoſe of us ac<g ref="char:EOLhyphen"/>cording
+<pb n="2" facs="tcp:109699:57"/>
+to his Divine Will and pleaſure; and to deſtroy, and anni<g ref="char:EOLhyphen"/>hilate us, when he pleaſes.</p>
+                     <p n="2">2. In acknowledgment of this Soveraignty we muſt preſent our ſelves before his Altars as Victims, prepar'd, and diſpos'd to render our Lives, and all we poſſeſs into his hands; judging it a favor to be deſtroy'd, and intirely conſum'd, as an Holocauſt, to his honor.</p>
+                     <p n="3">3. Knowing moreover, that he do's not deſire this real deſtructi<g ref="char:EOLhyphen"/>on of our ſelves; and that the yielding up, ſpending, or looſing our Lives in his Service, would not be a Sacrifice honorable enough for his greatneſs, nor an Homage worthy of his Merits: We muſt in place of our own Life, ſubſtitute the Life, of our Bleſſed Lord and Saviour <hi>Jeſus Chriſt,</hi> who has been giv'n us inſtead of a Victim, to ſupply all our defects; and preſent it in Homage to the Divine Majeſty of God; proteſting that his Excellency well deſerves, to have ſo precious a Life conſum'd to his honor: Which Act may be
+<pb n="3" facs="tcp:109699:57"/>
+expreſt in the following terms, which each one, according to their Devotion, may ſhorten or lengthen as their leiſure ſhall permit.</p>
+                     <div type="section">
+                        <head>FAITH.</head>
+                        <p>2. O My God I acknowledge, and confeſs, that thou art my Soveraign Lord, who haſt all right and power, abſo<g ref="char:EOLhyphen"/>lutely to diſpoſe of my Life and Death, nay even to deſtroy, and annihilate my very Being; and art not at all oblig'd to conſider there<g ref="char:EOLhyphen"/>in my inclinations, or any way ſweeten my loſſes. I am the work of thy hands, I ſubſiſt not, but by thee; and I am not, but for thee: I have nothing either of Body or Soul, which proceeds not from thy greatneſs, and depends not on thy goodneſs, and ought not to be intirely Conſecrated to thy Glory and Service.</p>
+                     </div>
+                     <div type="section">
+                        <pb n="4" facs="tcp:109699:58"/>
+                        <head>OBLATION.</head>
+                        <p>2. IN acknowledgment there<g ref="char:EOLhyphen"/>fore of this Soveraignty, and the dependance I have upon thee my Lord and God, behold I here preſent my ſelf before thy Altar as a Victim, wholly prepar'd to be Immolated and conſum'd as an Holocauſt, if ſo thou pleaſeſt: O my God, I proteſt before Hea<g ref="char:EOLhyphen"/>ven and Earth, that I am not only contented, but ſhall eſteem it as a favor, to lay down at thy Feet, this Life, and Being I have receiv'd from thy hands, in Teſtimony that I proceed from, and depend on thee.</p>
+                     </div>
+                     <div type="section">
+                        <head>The SVPPLEMENT.</head>
+                        <p>3. BVT ſeeing that on the one ſide, thou wilt not that I actually deſtroy my Life up<g ref="char:EOLhyphen"/>on thy Altars, and on the other ſide, thô my Life ſhould be wholly
+<pb n="5" facs="tcp:109699:58"/>
+ſpent and evaporated as an Holo<g ref="char:EOLhyphen"/>cauſt before thy Divine Majeſty this would not be ſufficient to render any Homage worthy of thy excellencies; therefore to ſup<g ref="char:EOLhyphen"/>ply this defect, I preſent to thee, O great God! The Life of thy Son, and ſubſtitute it in place of mine. I offer to thee the very ſame Homage he here to fore rendr'd thee upon the Croſs, by his bloody Sacrifice, and which by this un-bloody Sacrifice, he even to Day Exhibits to thee, both upon this, and upon all the Altars of the World, by his Myſtical Immola<g ref="char:EOLhyphen"/>tion: For he has wholly giv'n himſelf to us, to be our Victim; and will have us to ſupply by his Homage, what is wanting in ours. Therefore, ſeeing the Oblation of my Life would be too little to ſatisfie my obligation, in rendring all Homage ſuitable to the emi<g ref="char:EOLhyphen"/>nency of thy Power and Domini<g ref="char:EOLhyphen"/>on: In ſupply thereof, receive I beſeech thee as a Teſtimony of my ſubmiſſion, and acknowledgment of thy Soveraignty, the Life of my
+<pb n="6" facs="tcp:109699:59"/>
+Savior <hi>Jeſus,</hi> which I Immolate to thee, together with all the Prieſts who this Day Celebrate; proteſt<g ref="char:EOLhyphen"/>ing that thy Infinite Majeſty truly deſerves, that ſo precious a Life has been, and ſhould be again, in a manner conſum'd to its honor.</p>
+                     </div>
+                  </div>
+                  <div n="2" type="part">
+                     <head>The Second End. <hi>To give thanks to God.</hi>
+                     </head>
+                     <p n="1">1. MAke firſt an Act of Faith, acknowledging that all the benefits, graces, and fa<g ref="char:EOLhyphen"/>vors which you enjoy, are pour'd down upon you by the pure liber<g ref="char:EOLhyphen"/>ality, and mercy of God.</p>
+                     <p n="2">2. That you may exhibite ſome kind of gratitude, and requital: Preſent to him ſuch Acts as are included in a perfect thankſgiving; theſe are, Firſt, to ſet a high value upon his benefits. Secondly, to publiſh them. Thirdly, to reſolve
+<pb n="7" facs="tcp:109699:59"/>
+reciprocally to procure him all the good you can; by ſeeking his ho<g ref="char:EOLhyphen"/>nor and glory, and obeying him in all things.</p>
+                     <p n="3">3. Seeing that in this acknow<g ref="char:EOLhyphen"/>ledgment there is ſtill too great unworthineſs to counterpoiſe his Divine favors beſtow'd upon you, which are of an infinite value; ſupply what is wanting out of the Treaſures of the Son of God; of<g ref="char:EOLhyphen"/>fering to his Father the thankſ<g ref="char:EOLhyphen"/>giving, which this great Savior once rendr'd him, in his own Name and yours, upon the Croſs; and ſtill preſents upon all the Al<g ref="char:EOLhyphen"/>tars throughout the whole World; which you may expreſs after the following manner, ſhorter or long<g ref="char:EOLhyphen"/>er as your leiſure will permit, or your Devotion ſhall ſuggeſt.</p>
+                     <div type="section">
+                        <head>FAITH.</head>
+                        <p>1. O Inexhauſtible Source of li<g ref="char:EOLhyphen"/>berality, I believe, and confeſs, that whatſoever I have of Being, what Power, Life,
+<pb n="8" facs="tcp:109699:60"/>
+Grace, or other Goods, either of Body or Soul I Poſſeſs, I have re<g ref="char:EOLhyphen"/>ceiv'd 'em all from thy pure Mercy. Nor did any Merits of mine, but purely thy own Love, and Goodneſs move thee to heap upon me ſo many benefits, that 'tis impoſſible for me to number 'em. This truth I here come to acknowledge, in the Preſence of Heaven and Earth; proteſting be<g ref="char:EOLhyphen"/>fore this Altar, that I have receiv'd from thy liberality ſuch an infi<g ref="char:EOLhyphen"/>nity of Graces and Favors, as I am not able even to conceive, much leſs expreſs.</p>
+                     </div>
+                     <div type="section">
+                        <head>OBLATION.</head>
+                        <p>2. BVT deſirous not to be un<g ref="char:EOLhyphen"/>grateful or backward in of<g ref="char:EOLhyphen"/>fering what requital or re<g ref="char:EOLhyphen"/>turn my Poverty is able to make, admit and accept I beſeech thee, O my Soveraign Benefactor <gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> My Heart repleniſh't with all poſſible ſentiments of gratitude and thankſgiving for what I
+<pb n="9" facs="tcp:109699:60"/>
+owe thee. Certainly, if to ac<g ref="char:EOLhyphen"/>knowledge a benefit worthily, one muſt firſt of all teſtifie a great eſteem of it. I aſſure thee, O my God! That all the goods wherewith thou haſt been pleas'd to honor me, are in my eſteem, of an infinite value, becauſe they come to me, from thy All-Powerful Hand, as effects of thy Infinite Love and Goodneſs; and becauſe thou haſt beſtow'd 'em on a per<g ref="char:EOLhyphen"/>ſon, who is infinitely unworthy of 'em. And ſecondly, if it be re<g ref="char:EOLhyphen"/>quiſite to publiſh it; it being a kind of ingratitude to render only ſecret thanks; behold me here in this publick place expos'd to the view of Men and Angels, for no other end than to publiſh to the whole. World thoſe many favors thou haſt beſtow'd upon me. O Infinite Goodneſs, I deſire that all ſhould underſtand, that thou haſt heapt upon me ſuch benefits and favors, as are not only beyond what I am able to expreſs, but even exceed what I am able to conceive; wherefore I deſire that
+<pb n="10" facs="tcp:109699:61"/>
+all the World may know, that thou haſt intirely gain'd my heart by this thy eminent liberality; and therefore, upon this account I preſent my ſelf, as a Donary to hang at thy Altar, as a Sign and Memorial to the whole World, of the innumerable obligations I have to thee, promiſing thee moreover, to publiſh thy bounties and fa<g ref="char:EOLhyphen"/>vors, as far as I am or ſhall be able. In fine, if a due acknowledgment requires a reciprocal return; re<g ref="char:EOLhyphen"/>ceive, O great God! In requital of the good Will thou haſt ever had towards me, the Solemn pro<g ref="char:EOLhyphen"/>teſtation, which I here make, of intirely employing my ſelf hence<g ref="char:EOLhyphen"/>forward, to render thee all the ſer<g ref="char:EOLhyphen"/>vices, thou ſhalt deſire of me; and to procure thee all the good I am able, by ſeeking thy greater honor and glory, and obeying thy Com<g ref="char:EOLhyphen"/>mands in all things.</p>
+                     </div>
+                     <div type="section">
+                        <pb n="11" facs="tcp:109699:61"/>
+                        <head>The SVPPLEMENT.</head>
+                        <p>3. BVT knowing, that thô my Heart and all my Being ſhould melt away, and be totally conſum'd in theſe affecti<g ref="char:EOLhyphen"/>ons of thankſgiving; yet I could not thereby ſufficiently acknow<g ref="char:EOLhyphen"/>ledge thy Immenſe favors; there<g ref="char:EOLhyphen"/>fore to ſupply what is wanting to my Act of thankſgiving, I pre<g ref="char:EOLhyphen"/>ſent thee with that, which thy Son has heretofore preſented to thee for theſe very favors which thou haſt been pleas'd to impart to me. I preſent to thee the eſteem which he had of 'em; the publica<g ref="char:EOLhyphen"/>tion which he made of 'em; and the Oblation of his Life, which he made to thee on the Croſs for 'em; and which he ſtill at this preſent offers to thee upon all the Altars of the World, in return of all theſe thy bounties to me. He has made us H<gap reason="illegible" resp="#UOM" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>irs of all his Acti<g ref="char:EOLhyphen"/>ons, and conſequently of his thankſgivings; wherefore ſupply<g ref="char:EOLhyphen"/>ing
+<pb n="12" facs="tcp:109699:62"/>
+the defects of my gratitude with his, receive I beſeech thee, O my God! The acknowledgments he rendr'd to thee upon Mount <hi>Calvary,</hi> and which he continually renders thee in all thy Churches, for all the benefits and favors wherewith thy Mercies and Good<g ref="char:EOLhyphen"/>neſs has oblig'd me.</p>
+                     </div>
+                  </div>
+                  <div n="3" type="part">
+                     <head>The Third End. <hi>To Yield Satisfaction to God.</hi>
+                     </head>
+                     <p n="1">1. BY an Act of Faith, ac<g ref="char:EOLhyphen"/>knowledging your ſelf a a Sinner, and liable to the Divine Iuſtice for a multitude of Offences, which you have com<g ref="char:EOLhyphen"/>mitted againſt his Divine Majeſty.</p>
+                     <p n="2">2. Shew your ſelf to be ſorry for 'em, and offer him all the pains, moleſtations, afflictions, dolors, miſfortunes, incommodities, deſo<g ref="char:EOLhyphen"/>lations, and neceſſities, which you ſuffer, either of Body or Mind, in
+<pb n="13" facs="tcp:109699:62"/>
+the diſcharge of all your duties; proteſting that you do and will embrace 'em, and bear 'em pa<g ref="char:EOLhyphen"/>tiently.</p>
+                     <p n="3">3. Seeing evidently that this payment you offer is not correſ<g ref="char:EOLhyphen"/>pondent, nor equal to your debts; therefore, in ſupply thereof, offer out of the Treaſures of the Son of God, all the pains and dolors, which he ſuffer'd in his Life, and upon the Croſs, which he had de<g ref="char:EOLhyphen"/>pos'd in the Sacrifice of Maſs to be apply'd to you, if you will ac<g ref="char:EOLhyphen"/>cept'em: Which you may expreſs in theſe, or the like terms.</p>
+                     <div type="section">
+                        <head>FAITH.</head>
+                        <p>1. O My God, I acknowledge, and confeſs that I have greatly offended thy Infi<g ref="char:EOLhyphen"/>nite Majeſty, and that by my in<g ref="char:EOLhyphen"/>numerable ſins I have truly Merit<g ref="char:EOLhyphen"/>ed that thy Divine Iuſtice ſhould inflict upon me all its rigours, and chaſtiſements. I acknowledge that thou haſt all right to puniſh, and
+<pb n="14" facs="tcp:109699:63"/>
+take vengeance upon my paſt ex<g ref="char:EOLhyphen"/>ceſſes. And 'tis in reguard of this right, that I here render and pro<g ref="char:EOLhyphen"/>ſtrate my ſelf before thy Throne of Iuſtice, to make all poſſible Satisfaction, I am able to per<g ref="char:EOLhyphen"/>form.</p>
+                     </div>
+                     <div type="section">
+                        <head>OBLATION.</head>
+                        <p>2. WHerefore I here offer to thee all the grief, and ſorrow of Heart which I feel at preſent, thrô the remem<g ref="char:EOLhyphen"/>brance of the many and innumer<g ref="char:EOLhyphen"/>able ſins, whereby I have ſo un<g ref="char:EOLhyphen"/>gratefully contriſtated thy Divine Goodneſs: I am extreamly ſorry for having diſpleas'd thee, and would rather that I had loſt a thouſand Lives, than once in the leaſt have offended thee, and to<g ref="char:EOLhyphen"/>gether with this grief I offer thee all the infirmities, weariſomneſles, afflictions, dolors, labors, pains, calamities, and miſeries which I do or ſhall ſuffer in this World, by what way, or by what hand ſoever
+<pb n="15" facs="tcp:109699:63"/>
+thy Providence ſhall pleaſe to ſend 'em. O my God! Seeing that thy Iuſtice for its own Satisfacti<g ref="char:EOLhyphen"/>on, and in defence of its juſt rights, requires theſe chaſtiſements of me; behold here my Body, my Soul, my Goods, both exterior and in<g ref="char:EOLhyphen"/>terior, all which, I intirely lay down at thy Sacred Feet, and give 'em up into thy juſt revenging Hands, proteſting that I will ac<g ref="char:EOLhyphen"/>cept and bear patiently all the incommodities, loſles, pains, and afflictions whatſoever, that ſhall befal me, out of that irrevo<g ref="char:EOLhyphen"/>cable Will I have, to ſatisfie in ſome ſort the many and great debts, I owe thee.</p>
+                     </div>
+                     <div type="section">
+                        <head>The SVPPLEMENT.</head>
+                        <p>3. BVT all this being not yet ſufficient intirely to ſatiſ<g ref="char:EOLhyphen"/>fie for my Crimes, they having Merited infinite pains; to ſupply what is wanting to my pay<g ref="char:EOLhyphen"/>ment, I preſent thee all the ſuffer<g ref="char:EOLhyphen"/>ings of my Savior <hi>Jeſus Chriſt,</hi>
+                           <pb n="16" facs="tcp:109699:64"/>
+whereof he has made me his Heir. In the Old Law thou ordainedſt that the Children of <hi>Iſrael</hi> after having ſinn'd, ſhould in place of their own perſons ſubſtitute a Victim, whereon they ſhould lay their Crimes, and infine offer it to thee to receive the ſcourges of thy wrath, which they themſelves deſerv'd, and ought to have felt. Behold I likewiſe ſubſtitute here a Victim in my place, upon which I do not deſire thou ſhould'ſt diſ<g ref="char:EOLhyphen"/>charge afreſh the ſcourges of thy anger, for he has long ſince ſuf<g ref="char:EOLhyphen"/>fer'd them all, which I beſeech thee to call to thy remembrance; and in conſideration thereof, mitigate and appeaſe that juſt wrath thou haſt conceiv'd againſt me. This Victim is no other than thy on<g ref="char:EOLhyphen"/>ly and dearly beloved Son; whoſe ſufferings were far more rigorous, than thy juſtice requir'd, for all the ſins of the whole World: Seeing therefore he has done us the favor to depoſe 'em in the Sa<g ref="char:EOLhyphen"/>crifice of the Maſs, to be thereby apply'd to us; be pleas'd, O my
+<pb n="17" facs="tcp:109699:64"/>
+God! That I diſcharge all my debts out of theſe liberalities, he at this preſent ſends me, from all the Altars of the whole World; and which joyntly with him I pre<g ref="char:EOLhyphen"/>ſent to thee. Accept all the pains, and dolors of his Paſſion, and Bloody Sacrifice, to ſupply thoſe I am ſtill oblig'd to pay. Wherefore, aſſiſting really at this unbloody Sacrifice, which is a Memorial of his Paſſion, and of that un-bloody Sacrifie he offer'd upon the Altar of the Croſs, and rendring my ſelf preſent in Spirit at all o<g ref="char:EOLhyphen"/>ther Maſles which are this Day ſayd throughout the whole World; I offer 'em all to thy Divine Iu<g ref="char:EOLhyphen"/>ſtice, in Satisfaction for all my ſins, and all the ſins of thoſe Souls which ſuffer and languiſh in Purgatory.</p>
+                     </div>
+                  </div>
+                  <div n="4" type="part">
+                     <pb n="18" facs="tcp:109699:65"/>
+                     <head>The Fourth End. <hi>Impetration, or the Obtaining what we Aſk.</hi>
+                     </head>
+                     <p n="1">1. WE muſt on the one ſide acknowledge the inex<g ref="char:EOLhyphen"/>hauſtible riches of God, and on the other our extream po<g ref="char:EOLhyphen"/>verty; for we have nothing, and ſtand in need of all things.</p>
+                     <p n="2">2. Preſt with our neceſſities, we muſt approach the Gates of our moſt rich and liberal God, and preſent our Petitions to him, with a moſt profound humility.</p>
+                     <p n="3">3. Conſidering, that all our Prayers and inſtances, are not able or ſufficient, to move or ob<g ref="char:EOLhyphen"/>lige him, to beſtow his Treaſures upon us, we wanting ſuch Merits as may give us Credit with him; let us, to ſupply our own unwor<g ref="char:EOLhyphen"/>thineſs, offer all the Merits and Credit which our Savior gain'd,
+<pb n="19" facs="tcp:109699:65"/>
+by the Sacrifice he offer'd upon the Altar of the Croſs; which he has giv'n us, and apply'd to the un-bloody Sacrifie of the Altar, to be thereby Communicated to us.</p>
+                     <div type="section">
+                        <head>FAITH.</head>
+                        <p>1. O My God! Behold me here a poor wretch, a moſt mi<g ref="char:EOLhyphen"/>ſerable Slave, in extream neceſſity, proſtrate at thy Feet, of whoſe riches I can be no more ignorant, than I am of my own Poverty. I muſt Confeſs the truth, that I have nothing, and that thou haſt all things in abun<g ref="char:EOLhyphen"/>dance; and therefore, 'tis from thee alone, that I can hope for any relief.</p>
+                     </div>
+                     <div type="section">
+                        <head>OBLATION.</head>
+                        <p>2. WHerefore, behold I here place my ſelf at the Gates of thy Mercy, humbly beſeeching thee to have
+<pb n="20" facs="tcp:109699:66"/>
+pitty on the moſt miſerable Crea<g ref="char:EOLhyphen"/>ture under Heaven. Alas! O God of all bounty! Behold and ſuccor my neceſſities, and incline thine Ears to the earneſt Prayers I preſume to offer, and addreſs unto thee. Ah! my God, full of Riches and Com<g ref="char:EOLhyphen"/>paſſion, give me the Grace of a perfect Contrition of Heart, which may waſh away all the ſpots of my ſins. Reſtore me to thy gra<g ref="char:EOLhyphen"/>cious favor, if by misfortuen and ingratitude I ſhould have loſt this Rich and only Treaſure. Make me hence forward always to live in it, and poſſeſs that infinite Trea<g ref="char:EOLhyphen"/>ſure of thy Love. Vouchſafe me all Vertues agreeable to my Vo<g ref="char:EOLhyphen"/>cation. Grant me all Talents both natural, and ſupernatural, that are neceſſary for the amplification of thy Honor and Glory; and re<g ref="char:EOLhyphen"/>fuſe me not the comforts of this Life, in ſuch a degree, as is neceſſa<g ref="char:EOLhyphen"/>ry for my Salvation in the next. Permit me alſo to demand the Converſion of all ſinners, the Per<g ref="char:EOLhyphen"/>ſeverance and Sanctity of all the Iuſt, the Exaltation of the Holy
+<pb n="21" facs="tcp:109699:66"/>
+Church, the Extirpation of Errors, and Hereſies, the Conſolation of the Afflicted, the Proſperity of my Parents, Friends and Relati<g ref="char:EOLhyphen"/>ons, and forgiveneſs of my Ene<g ref="char:EOLhyphen"/>mies. Beſeech him to ſhower down his Bleſſings upon the Pope and all Chriſtian Princes, both Spiritual and Temporal, eſpecially upon our King. Queen, Prince, and all the Royal Family; upon all Superiors and others, both Eccleſiaſtical or Civil, throughout the whole World, but particular<g ref="char:EOLhyphen"/>ly in <hi>England,</hi> by Converting 'em to the True Faith, and to a Vertuous Life.</p>
+                     </div>
+                     <div type="section">
+                        <head>The SVPPLEMENT.</head>
+                        <p>3. 'TIS indeed very true, that I Merit not ſo much as the leaſt of theſe favors, and I have nothing which can move thy bounty, to unlock its Trea<g ref="char:EOLhyphen"/>ſures, or to open thy liberal hands; notwithſtanding, calling to mind that my deareſt Savior <hi>Jeſus</hi> has
+<pb n="22" facs="tcp:109699:67"/>
+made me Heir of all the Merits of his Life and Death, and applys the ſame to me, by this Venerable Sa<g ref="char:EOLhyphen"/>crifie of the Maſs, I receive 'em therefore from his Divine Hands to offer 'em to thee; which now I do, and repeat this Oblation as many times, as there ſhall this Day be Maſſes ſayd throughout the whole World, that in reguard of 'em thou would'ſt grant me all that I come to requeſt of thee. Look not therefore upon my de<g ref="char:EOLhyphen"/>merits and unworthineſs, both which I own and confeſs to thy Divine Majeſty: But look upon the Merits of thy well beloved Son; which are ſufficient to ren<g ref="char:EOLhyphen"/>der the moſt unworthy, moſt de<g ref="char:EOLhyphen"/>ſerving of thy favors. Shew therefore, O Eternal Father I In this occaſion both thy juſtice, and the efficacy and Credit of thy Son; give him that recompence due to him, that thou will not give to me. I ask it not but in his Name: And behold him coming himſelf upon this Altar, to joyn his Pray<g ref="char:EOLhyphen"/>ers with mine, and unite his re<g ref="char:EOLhyphen"/>commendation
+<pb n="23" facs="tcp:109699:67"/>
+with my Petition, wherefore thy honor is engag'd to hear, and render thy ſelf favorable to thoſe, whom he commands to ask in his Name, and to whom he Communicates his Merits and Credit. Behold I am one of theſe, honor him therefore I beſeech thee, by granting me, what both he and I moſt earneſtly beg of thee.</p>
+                     </div>
+                  </div>
+                  <div type="part">
+                     <head>Eight Comfortable Points to be Conſider'd in the Sacrifice of the Maſs.</head>
+                     <p n="1">1. THat all the value and effica<g ref="char:EOLhyphen"/>cy which was orignally in the Bloody Sacrifice upon the Croſs, is by God intirely tran<g ref="char:EOLhyphen"/>ſlated to the unbloody Sacrifice of the Maſs, by which Sacrifice, the former is apply'd.</p>
+                     <p n="2">2. The more one comprehends the value of this Sacrifice, the
+<pb n="24" facs="tcp:109699:68"/>
+greater eſteem he will have of it, the more confidence in it, and more particularly co-operate with it, partake more largely of it, and thereby become more capable of receiving its effects in greater a<g ref="char:EOLhyphen"/>bundance.</p>
+                     <p n="3">3. To participate of the effects, and fruit of the third end of Maſs, which is to make Satisfaction to God for our ſins and offences, one muſt be in the Grace of God. Therefore, 'tis good always to make an Act of Contrition, as often as we go to hear Maſs, of when we procure it to be ſayd for us.</p>
+                     <p n="4">4. To partake of the effects of the fourth end, which is Impe<g ref="char:EOLhyphen"/>tration, or the gaining our Peti<g ref="char:EOLhyphen"/>tions, we muſt actually demand ſomething, either in general, or in particular: Otherwiſe we let the Credit of the Son of God, which is Communicated to us, remain uſeleſs and un<g ref="char:EOLhyphen"/>profitable.</p>
+                     <p n="5">5. That we may every Morn<g ref="char:EOLhyphen"/>ing, and every Evening, and every
+<pb n="25" facs="tcp:109699:68"/>
+hour of the Day, offer all the Maſſes which are ſayd that Day, or Night throughout the whole World, for the four ends afore<g ref="char:EOLhyphen"/>ſaid: For ſo we ſhall render our ſelves participant of the fruit of 'em all: Note alſo, that there is no hour in the Day or Night, in which Maſs is not then ſaying, in ſome part of the World or other.</p>
+                     <p n="6">6. That when one has any thing to ask of God the true means to obtain it, is to de<g ref="char:EOLhyphen"/>mand it in conſideration of all the Maſles which are ſayd on Earth, and in reſpect of the Merits of the Son of God, which are apply'd to us by their means.</p>
+                     <p n="7">7. That to offer Maſs well, we muſt always make an interior Sa<g ref="char:EOLhyphen"/>crifice of our ſelves, as is directed in the firſt end, by an Homage, and Immolation of our Soul, Body, Life, and Goods. In the ſecond, a thankſgiving on our part. In the third, Sorrow and Contrition, joyn'd with ſome
+<pb n="26" facs="tcp:109699:69"/>
+Sufferances. In the fourth, Fer<g ref="char:EOLhyphen"/>vent Prayer; otherwiſe as Saint <hi>Gregory Nazianzen</hi> ſays, we ſhall be unworthy to participate of the Sacrifice of our Savior. <hi>For none is worthy,</hi> ſays he, <hi>of this great Sa<g ref="char:EOLhyphen"/>crifice, if he Exhibits not himſelf a Victim:</hi> Otherwiſe, as the great Cardinal <hi>Person</hi> ſays, <hi>'Twould be to falſifie the Sacrifice of Maſs, if we do not accompany it with theſe Interior Sacrifices:</hi> For this were to preſent to God an Extern Figure, deſtitute of the verity, which it pretends on our part. Seeing that we ſhould ofter <hi>Jeſus Chriſt</hi> Dead, and Immolated in proteſta<g ref="char:EOLhyphen"/>tion of our Interior Immolation, and yet not withſtanding we ſhould not be Immolated, at leſt, in Spirit and deſire. And 'twould be a preſumptuous rudeneſs, to make ſuch free uſe of the Treaſures of our Savior; and to deſire to make benefit of his Homages, Thankſ<g ref="char:EOLhyphen"/>givings, Satisfactions, and the like, without a Will to contribute ſomething on our part. 'Tis true that he preſents himſelf to us, to
+<pb n="27" facs="tcp:109699:69"/>
+the end that out of his Treaſures we may ſupply what is wanting in us. And therefore we may ſay, <hi>I ſupply out of thee, what is want<g ref="char:EOLhyphen"/>ing in me,</hi> as Saint <hi>Bernard</hi> ſays, in his firſt Sermon of the <hi>Epiphany.</hi> But if we have any thing to offer, we muſt not be ſparing on our parts, this being a preſent on our parts, this being a preſent we are oblig'd firſt to offer to God; and afterwards, when we have nothing more left, we are al<g ref="char:EOLhyphen"/>low'd, as we want to take a ſupply out of the Treaſures of our Savior.</p>
+                     <p n="8">8. That the Eſlence of this Sa<g ref="char:EOLhyphen"/>crifice requires this practiſe, but as for what concerns the circum<g ref="char:EOLhyphen"/>ſtances which are, Prayers, Cere<g ref="char:EOLhyphen"/>monies, and Performance of ſo many Actions, as the Prieſt do's before and after the Conſecrati<g ref="char:EOLhyphen"/>on, to the end we may partici<g ref="char:EOLhyphen"/>pate of theſe, 'tis good after that one is enter'd into the Church, actually to offer up all this, uniting our Wills with that of the Prieſt, and approving what he ſhall do, in theſe, or the like following terms.</p>
+                  </div>
+                  <div type="part">
+                     <pb n="28" facs="tcp:109699:70"/>
+                     <head>An Oblation of the Circumstances of the Sacrifice of Maſs.</head>
+                     <p>O My God! My Soveraign Lord, I here come to ac<g ref="char:EOLhyphen"/>company the Prieſt, whom the Church ſends Embaſſador to thy Divine Majeſty. I joyn my Aſſent to all the Praiſes he ſhall give thee, to all the Adora<g ref="char:EOLhyphen"/>tions where with he ſh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ll honor thee, to all the Prayers he ſhall addreſs unto thee, and to all the Good deſires he ſhall conceive; and conſequently I deſire to participate of the Heavenly Food he ſhall re<g ref="char:EOLhyphen"/>ceive; I am a Member of that Myſtical Body, of which he re<g ref="char:EOLhyphen"/>preſents the Mouth. Let there<g ref="char:EOLhyphen"/>fore this Divine Bread, and this Blood he ſhall Receive, ſtream down its Vertue upon me, and
+<pb n="29" facs="tcp:109699:70"/>
+all the Faithful united with him in affection.</p>
+                     <p>O Eternal Father, <hi>Behold the Face of thy Chriſt,</hi> behold thy Son <hi>Jeſus,</hi> look not upon us, who are full of vanity, but upon him, re<g ref="char:EOLhyphen"/>pleniſh't with Humility, with which he covers our Infolency and Pre<g ref="char:EOLhyphen"/>ſumption: We are ungrateful, but his Love ſatisfies for our ingrati<g ref="char:EOLhyphen"/>tudes; our ſins are great, but his Satisfaction is ſtill greater; our Demerits are Exceſſive, but his Merits are Infinite; our ſins cry out for Vengeance, but his Blood craves Mercy for us; Wherefore, <hi>Behold the Face of thy Chriſt</hi> and turn away thine Eyes from my Crimes; behold the Wounds and Sufferings of thy Son, and for his ſake Pardon thoſe for whom he Suffer'd and gave all, even his very Life; <hi>O behold the Face of thy Chriſt. Amen.</hi>
+                     </p>
+                  </div>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </body>
+            <back>
+               <div type="prayer">
+                  <pb facs="tcp:109699:71"/>
+                  <head>That this Page may not be left Vacant, Accept Pious Reader, and make uſe of this Excellent Prayer, to thy Angel Gardian.</head>
+                  <p>OHoly Angel, dearly belov'd by God, who haſt from my very Birth, continually Protected, Enlighten'd, and Go<g ref="char:EOLhyphen"/>vern'd me, as one committed to thy ſpecial Care; I Reverence thee as my Patron, I Love thee as my Keeper, I Submit to thy Directi<g ref="char:EOLhyphen"/>on, and wholly Deliver up my ſelf to be Govern'd by thee; Wherefore, I humbly beſeech thee, for Chriſt's ſake, not to leave me, thô by Acting contraty to thy kind Admonitions, I continue to carry my ſelf ungratefully towards thee; but ſtill vouch ſafe, graciouſly to Direct me when I Err, to Inſtruct me in what I am Ignorant, to Lift me up when I Fall, to Com<g ref="char:EOLhyphen"/>fort me when Afflicted, and to Deliver me when in Danger; till at length thou bringeſt me to Heaven, where with thee, I ſhall enjoy Everlaſting Felicity. <hi>Amen.</hi>
+                  </p>
+               </div>
+               <div type="publishers_advertisement">
+                  <pb facs="tcp:109699:71"/>
+                  <head>A Catalogue, of what Books likewiſe are to be had.</head>
+                  <p>A Method of Exerciſing the three Powers of the Soul, in Medi<g ref="char:EOLhyphen"/>tation, according to the Doctrin of S. <hi>Ignatius,</hi> in his Spiritual Exer<g ref="char:EOLhyphen"/>ciſes. In a large Sheet of Paper, in Latin, Engliſh, and French, with a Picture to each, Grav'd by <hi>Wierx.</hi>
+                  </p>
+                  <p>Eccleſiae Primitivae Clericus cujus gradus, educatio, tonſura, chorus, vita communis, vota, Hierarchia, ex<g ref="char:EOLhyphen"/>ponuntur, Authore <hi>Ioon Warnero,</hi> Societatis Ieſu olim S. T. Profeſſore. <hi>In Quarto.</hi>
+                  </p>
+                  <p>Duarum Epiſtolarum <hi>Georgij Morlai,</hi> S. T. D. &amp; Epiſcopi <hi>VVintonienfis</hi> ad Ianum Vlitium Reviſio. In quâ, de Orationibus pro Defunctis, Sancto<g ref="char:EOLhyphen"/>rum Invocatione, Diis Gentilium, &amp; Idololatriâ agitur. Authore, <hi>Ioan. VVarnero.</hi> To which is added in Engliſh, A Reviſion of Dr. <hi>George Morlei</hi>'s Iudgment in matters of Reli<g ref="char:EOLhyphen"/>gion, or an Anſwer to ſeveral Treatiſes Written by him upon ſeveral occa<g ref="char:EOLhyphen"/>ſions. concerning the Church of <hi>Rome,</hi> and moſt of the Doctrins Controverted betwixt her, and the Church of <hi>Eng<g ref="char:EOLhyphen"/>land. In Quarto.</hi>
+                  </p>
+                  <pb facs="tcp:109699:72"/>
+                  <p>The Roſary of the Bleſſed Virgin <hi>Mary;</hi> with an eaſie Method how to perform this excellent Devotion, by way of Mental and Vocal Prayer. Printed in a large Character, at <hi>London</hi> in the Year, 1694. <hi>In Quarto.</hi>
+                  </p>
+                  <p>Of Adoration in Spirit and Truth. Written in four Books, by Father <hi>Iohn Euſebius Nieremberg,</hi> Native of <hi>Madrid,</hi> of the Society of Ieſus; And Tran<g ref="char:EOLhyphen"/>ſlated into <hi>Engliſh,</hi> by Father <hi>Richard Strange,</hi> of the ſame Society. In which is diſclos'd the Pith and Marrow of a Spiritual Life, of Chriſts Imitation, and Myſtical Theology; extracted out of the Holy Fathers, and greateſt Ma<g ref="char:EOLhyphen"/>ſters of Spirit, <hi>Diadochus, Dorotheus, Clymacbus, Ruſbrothius, Suſo, Thaulerus, à Kempis, Gerſon;</hi> and not a little both Pious and effectual is ſuper<g ref="char:EOLhyphen"/>added; lately Printed. <hi>In Octavo.</hi>
+                  </p>
+                  <p>The Life of the Lady <hi>VVarner,</hi> of <hi>Parham</hi> in <hi>Suffolk,</hi> in Religion call'd Siſter <hi>Clare</hi> of <hi>Ieſus.</hi> In which are ſpecify'd, the occaſion and Motives of her Converſion, to the Roman Ca<g ref="char:EOLhyphen"/>tholic Faith, and of her quiting her Husband, Children, <hi>&amp;c.</hi> to embrace the Strict Order of the <hi>Poor Clares</hi> at <hi>Graveling;</hi> together with her Excellent Devotions, and Pious Practiſes in
+<pb facs="tcp:109699:72"/>
+Religion, and moſt happy Death. Written by a Catholic Gentleman. Printed at <hi>London</hi> in the Year, 1691. <hi>In Octavo.</hi>
+                  </p>
+                  <p>Le Guide des Croyans ou Methode Polemique du R. P. <hi>Iean Keynes,</hi> Theologien de la Compagnie de Ieſus: Pour convaincre, clairement, ſolide<g ref="char:EOLhyphen"/>ment &amp; en peu de mots tous ceux qui ſont éloignez de la veritable Religion. Traduite de I'Anglois en François, par Monſieur <hi>Gonneau.</hi> Reveüe, corrigée, &amp; augmentée ſur la Traduction Latine qui en à eſté faite depuis peu de temps, par le méme Auteur. <hi>In Octavo.</hi>
+                  </p>
+                  <p>An Inſtruction to perform with fruit the Devotion of Ten <hi>Frydays,</hi> in honor of S. <hi>Francis Xaverius,</hi> Apoſtle of the <hi>Indies.</hi> Much Practis'd in <hi>Rome,</hi> and Augmented particularly of late by ſome moſt Authentic Miracles wrought by the Interceſſion of this Glorious Saint. Vpon which he is taken as par<g ref="char:EOLhyphen"/>ticular Patron of almoſt all <hi>Italy.</hi> I ran<g ref="char:EOLhyphen"/>ſlated into Engliſh by a Father of the Society of Ieſus, lately Printed. <hi>In Twelves.</hi>
+                  </p>
+                  <p>A Method of Converſing with God. Tranſlated out of French, by I. W. of the Society of Ieſus. The ſecond Edition, Printed at <hi>London</hi> in the Year, 1692. <hi>In Twelves.</hi>
+                  </p>
+                  <pb facs="tcp:109699:73"/>
+                  <p>The Dayly Exerciſe of a Chriſtian Life, or the Interior Spirit with which we ought to Animate our Actions throughout the whole Day: with an eaſie Inſtruction for Mental Prayer. Tranſlated out of French by I. W. of the Society of Ieſus. The Second Edition. <hi>In Twelves.</hi>
+                  </p>
+                  <p>The Method of Prayer, render'd Practical and Eaſie for all ſorts of Perſons. Compos'd in <hi>French</hi> by R. F. <hi>Francis Nephew,</hi> S. I. And now Tranſlated into <hi>Engliſh.</hi> To which is added a Method how to offer up Maſs, according to the Four Ends of this Sacrifice. Printed at <hi>London</hi> in the Year. 1694.</p>
+                  <p>A Treatiſe of Policy and Religion; Written about a Hundred Years ſince, by <hi>Thomas Fitzherbet</hi> Eſquire. The Third Edition newly Revis'd, Divid<g ref="char:EOLhyphen"/>ed into Four Tomes in <hi>Octavo,</hi> and the <hi>Engliſh,</hi> together with the Citations, Corrected. The Firſt Tome will be Publiſh't in the Month of <hi>Ianuary,</hi> 1695. And the other Three Tomes will be carry'd on with all the Expe<g ref="char:EOLhyphen"/>dition imaginable, if this go's well off. Printed at <hi>London</hi> in the Year 1695.</p>
+                  <pb facs="tcp:109699:73"/>
+               </div>
+            </back>
+         </text>
+      </group>
+   </text>
+</TEI>
